@@ -1,0 +1,14 @@
+name: pulpo_brightcon_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipopt=3.11.1
+  - pip:
+      - pulpo-dev
+      - python-louvain
+      - networkx
+      - ipywidgets
+      - pdf2image
+      - ipympl
