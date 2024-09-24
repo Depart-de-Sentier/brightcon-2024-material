@@ -1,0 +1,7 @@
+brightway2==2.4.6
+bw2analyzer==0.10
+bw2data==3.6.6
+fuzzywuzzy==0.18.0
+matplotlib==3.9.2
+numpy==2.1.1
+pandas==2.2.3
