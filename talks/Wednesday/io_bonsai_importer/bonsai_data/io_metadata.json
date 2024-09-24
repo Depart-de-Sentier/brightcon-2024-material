@@ -1,0 +1,7238 @@
+{
+    "A_ALUM": {
+        "unit": "tonne",
+        "name": "aluminium and aluminium products",
+        "classification": "24.42"
+    },
+    "A_ALUO": {
+        "unit": "tonne",
+        "name": "aluminium ores and concentrates",
+        "classification": "07.29"
+    },
+    "A_ALUW": {
+        "unit": "tonne",
+        "name": "recycling of aluminium",
+        "classification": "24.42"
+    },
+    "A_AL_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of aluminium",
+        "classification": "38.21"
+    },
+    "A_AL_LAND": {
+        "unit": "tonne",
+        "name": "landfill of aluminium",
+        "classification": "38.21"
+    },
+    "A_ASHW": {
+        "unit": "tonne",
+        "name": "recycling of ashes",
+        "classification": "38.32"
+    },
+    "A_AS_LAND": {
+        "unit": "tonne",
+        "name": "landfill of ashes",
+        "classification": "38.21"
+    },
+    "A_Agavs": {
+        "unit": "tonne",
+        "name": "agave fibres nes",
+        "classification": "01.16"
+    },
+    "A_Almod": {
+        "unit": "tonne",
+        "name": "almonds, without shell",
+        "classification": "10.39"
+    },
+    "A_Almol": {
+        "unit": "tonne",
+        "name": "almonds, in shell",
+        "classification": "01.25"
+    },
+    "A_Anisr": {
+        "unit": "tonne",
+        "name": "anise, badian, fennel",
+        "classification": "01.28"
+    },
+    "A_Appls": {
+        "unit": "tonne",
+        "name": "apples",
+        "classification": "01.22"
+    },
+    "A_Apris": {
+        "unit": "tonne",
+        "name": "apricots",
+        "classification": "01.24"
+    },
+    "A_Apriy": {
+        "unit": "tonne",
+        "name": "apricots, dried",
+        "classification": "10.39"
+    },
+    "A_Arecs": {
+        "unit": "tonne",
+        "name": "areca nuts",
+        "classification": "01.25"
+    },
+    "A_Artis": {
+        "unit": "tonne",
+        "name": "artichokes",
+        "classification": "01.13"
+    },
+    "A_Aspas": {
+        "unit": "tonne",
+        "name": "asparagus",
+        "classification": "01.13"
+    },
+    "A_Avocs": {
+        "unit": "tonne",
+        "name": "avocados",
+        "classification": "01.22"
+    },
+    "A_BA_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of batteries and accumulators waste",
+        "classification": "38.21"
+    },
+    "A_BA_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of batteries and accumulators waste",
+        "classification": "38.21"
+    },
+    "A_BA_LAND": {
+        "unit": "tonne",
+        "name": "landfill of batteries and accumulators waste",
+        "classification": "38.21"
+    },
+    "A_BA_RECY": {
+        "unit": "tonne",
+        "name": "recycling of batteries and accumulators waste",
+        "classification": "24.43"
+    },
+    "A_BRIK": {
+        "unit": "tonne",
+        "name": "bricks, tiles and construction products, in baked clay",
+        "classification": "23.32"
+    },
+    "A_Bambs": {
+        "unit": "tonne",
+        "name": "bambara beans",
+        "classification": "01.25"
+    },
+    "A_Banas": {
+        "unit": "tonne",
+        "name": "bananas",
+        "classification": "01.22"
+    },
+    "A_Barly": {
+        "unit": "tonne",
+        "name": "barley",
+        "classification": "01.11"
+    },
+    "A_Bastr": {
+        "unit": "tonne",
+        "name": "jute-like fibres",
+        "classification": "01.16"
+    },
+    "A_Beann": {
+        "unit": "tonne",
+        "name": "beans, green",
+        "classification": "01.25"
+    },
+    "A_Beany": {
+        "unit": "tonne",
+        "name": "beans, dry",
+        "classification": "01.25"
+    },
+    "A_Beer": {
+        "unit": "tonne",
+        "name": "beer",
+        "classification": "11.05"
+    },
+    "A_Berrs": {
+        "unit": "tonne",
+        "name": "berries nes",
+        "classification": "01.25"
+    },
+    "A_Blues": {
+        "unit": "tonne",
+        "name": "blueberries",
+        "classification": "01.25"
+    },
+    "A_Brazd": {
+        "unit": "tonne",
+        "name": "brazil nuts, without shell",
+        "classification": "10.39"
+    },
+    "A_Brazl": {
+        "unit": "tonne",
+        "name": "brazil nuts, in shell",
+        "classification": "01.25"
+    },
+    "A_Broay": {
+        "unit": "tonne",
+        "name": "broad beans, dry",
+        "classification": "01.25"
+    },
+    "A_Buckt": {
+        "unit": "tonne",
+        "name": "buckwheat",
+        "classification": "01.11"
+    },
+    "A_Bufmilk": {
+        "unit": "tonne",
+        "name": "buffalos - milk",
+        "classification": "01.42"
+    },
+    "A_CHEM": {
+        "unit": "tonne",
+        "name": "chemicals nec",
+        "classification": "20.59"
+    },
+    "A_CHMF": {
+        "unit": "tonne",
+        "name": "chemical and fertilizer minerals",
+        "classification": "08.91"
+    },
+    "A_CHP": {
+        "unit": "TJ",
+        "name": "heat from combined heat and power",
+        "classification": "35.3"
+    },
+    "A_CMNT": {
+        "unit": "tonne",
+        "name": "cement, lime and plaster",
+        "classification": "23.5"
+    },
+    "A_COAL": {
+        "unit": "tonne",
+        "name": "mining of coal and lignite; extraction of peat (10)",
+        "classification": "05.2"
+    },
+    "A_COIL": {
+        "unit": "tonne",
+        "name": "crude petroleum extraction",
+        "classification": "06.1"
+    },
+    "A_COKE": {
+        "unit": "tonne",
+        "name": "coke oven coke",
+        "classification": "19.1"
+    },
+    "A_COMP": {
+        "unit": "MEUR",
+        "name": "computer and related services",
+        "classification": 62
+    },
+    "A_CONS": {
+        "unit": "MEUR",
+        "name": "construction work",
+        "classification": 41
+    },
+    "A_CONW": {
+        "unit": "tonne",
+        "name": "recycling of construction waste",
+        "classification": "38.32"
+    },
+    "A_COPO": {
+        "unit": "tonne",
+        "name": "copper ores and concentrates",
+        "classification": "07.29"
+    },
+    "A_COPP": {
+        "unit": "tonne",
+        "name": "copper products",
+        "classification": "24.44"
+    },
+    "A_COPW": {
+        "unit": "tonne",
+        "name": "recycling of copper",
+        "classification": "24.44"
+    },
+    "A_CO_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of construction waste",
+        "classification": "38.21"
+    },
+    "A_CO_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of construction waste",
+        "classification": "38.21"
+    },
+    "A_CO_LAND": {
+        "unit": "tonne",
+        "name": "landfill of construction waste",
+        "classification": "38.21"
+    },
+    "A_CO_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of construction waste",
+        "classification": "38.21"
+    },
+    "A_CRMC": {
+        "unit": "tonne",
+        "name": "ceramic goods",
+        "classification": "23.4"
+    },
+    "A_CU_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of copper",
+        "classification": "38.21"
+    },
+    "A_CU_LAND": {
+        "unit": "tonne",
+        "name": "landfill of copper",
+        "classification": "38.21"
+    },
+    "A_Cabbs": {
+        "unit": "tonne",
+        "name": "cabbages",
+        "classification": "01.13"
+    },
+    "A_Canad": {
+        "unit": "tonne",
+        "name": "canary seed",
+        "classification": "01.11"
+    },
+    "A_Caros": {
+        "unit": "tonne",
+        "name": "carobs",
+        "classification": "01.13"
+    },
+    "A_Carrs": {
+        "unit": "tonne",
+        "name": "carrot",
+        "classification": "01.13"
+    },
+    "A_Cashd": {
+        "unit": "tonne",
+        "name": "cashew nuts, without shell",
+        "classification": "10.39"
+    },
+    "A_Cashe": {
+        "unit": "tonne",
+        "name": "cashewapple",
+        "classification": "01.22"
+    },
+    "A_Cashl": {
+        "unit": "tonne",
+        "name": "cashew nuts, in shell",
+        "classification": "01.25"
+    },
+    "A_Cassa": {
+        "unit": "tonne",
+        "name": "cassava",
+        "classification": "01.13"
+    },
+    "A_Cassd": {
+        "unit": "tonne",
+        "name": "cassava, dried",
+        "classification": "10.39"
+    },
+    "A_Castd": {
+        "unit": "tonne",
+        "name": "castor beans",
+        "classification": "01.11"
+    },
+    "A_Cauli": {
+        "unit": "tonne",
+        "name": "cauliflowers and broccoli",
+        "classification": "01.13"
+    },
+    "A_Ceres": {
+        "unit": "tonne",
+        "name": "cereals, nes",
+        "classification": "01.11"
+    },
+    "A_Cherr": {
+        "unit": "tonne",
+        "name": "sour cherries",
+        "classification": "01.24"
+    },
+    "A_Chers": {
+        "unit": "tonne",
+        "name": "cherries",
+        "classification": "01.24"
+    },
+    "A_Chest": {
+        "unit": "tonne",
+        "name": "chestnuts",
+        "classification": "01.25"
+    },
+    "A_Chick": {
+        "unit": "tonne",
+        "name": "chick-peas, dry",
+        "classification": "01.11"
+    },
+    "A_Chics": {
+        "unit": "tonne",
+        "name": "chicory roots",
+        "classification": "01.13"
+    },
+    "A_Chiln": {
+        "unit": "tonne",
+        "name": "chillies and peppers (green)",
+        "classification": "01.28"
+    },
+    "A_Chily": {
+        "unit": "tonne",
+        "name": "pimento",
+        "classification": "01.28"
+    },
+    "A_Cinn": {
+        "unit": "tonne",
+        "name": "cinnamon (canella)",
+        "classification": "01.28"
+    },
+    "A_Clovs": {
+        "unit": "tonne",
+        "name": "cloves",
+        "classification": "01.28"
+    },
+    "A_Cocader": {
+        "unit": "tonne",
+        "name": "cocao derivates",
+        "classification": "10.82"
+    },
+    "A_Cocoa": {
+        "unit": "tonne",
+        "name": "cocoa beans",
+        "classification": "01.25"
+    },
+    "A_Cocod": {
+        "unit": "tonne",
+        "name": "coconuts, desiccated",
+        "classification": "10.82"
+    },
+    "A_Cocon": {
+        "unit": "tonne",
+        "name": "coconuts",
+        "classification": "01.26"
+    },
+    "A_Coffn": {
+        "unit": "tonne",
+        "name": "coffee green",
+        "classification": "01.27"
+    },
+    "A_Cowmilk": {
+        "unit": "tonne",
+        "name": "cow milk",
+        "classification": "01.41"
+    },
+    "A_Cowpea": {
+        "unit": "tonne",
+        "name": "cow peas, dry",
+        "classification": "01.11"
+    },
+    "A_Crans": {
+        "unit": "tonne",
+        "name": "cranberries",
+        "classification": "01.25"
+    },
+    "A_Cucus": {
+        "unit": "tonne",
+        "name": "cucumbers and gherkins",
+        "classification": "01.13"
+    },
+    "A_Currs": {
+        "unit": "tonne",
+        "name": "currants",
+        "classification": "01.25"
+    },
+    "A_DE_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of discarded equipment",
+        "classification": "38.21"
+    },
+    "A_DE_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of discarded equipment",
+        "classification": "38.21"
+    },
+    "A_DE_LAND": {
+        "unit": "tonne",
+        "name": "landfill of discarded equipment",
+        "classification": "38.21"
+    },
+    "A_DE_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of discarded equipment",
+        "classification": "38.21"
+    },
+    "A_DE_RECY": {
+        "unit": "tonne",
+        "name": "recycling of discarded equipment",
+        "classification": "24.43"
+    },
+    "A_DV_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of discarded vehicles",
+        "classification": "38.21"
+    },
+    "A_DV_LAND": {
+        "unit": "tonne",
+        "name": "landfill of discarded vehicles",
+        "classification": "38.21"
+    },
+    "A_DV_RECY": {
+        "unit": "tonne",
+        "name": "recycling of discarded vehicles",
+        "classification": "24.43"
+    },
+    "A_Dates": {
+        "unit": "tonne",
+        "name": "dates",
+        "classification": "01.22"
+    },
+    "A_EDUC": {
+        "unit": "MEUR",
+        "name": "education services",
+        "classification": 85
+    },
+    "A_ELMA": {
+        "unit": "tonne",
+        "name": "electrical machinery and apparatus n.e.c.",
+        "classification": "26.1"
+    },
+    "A_Eggpl": {
+        "unit": "tonne",
+        "name": "eggplants",
+        "classification": "01.13"
+    },
+    "A_FABM": {
+        "unit": "tonne",
+        "name": "fabricated metal products, except machinery and equipment",
+        "classification": 25
+    },
+    "A_FAUX": {
+        "unit": "MEUR",
+        "name": "services auxiliary to financial intermediation",
+        "classification": 66
+    },
+    "A_FINS": {
+        "unit": "MEUR",
+        "name": "insurance and pension funding services, except compulsory social security services",
+        "classification": 65
+    },
+    "A_FINT": {
+        "unit": "MEUR",
+        "name": "financial intermediation services, except insurance and pension funding services",
+        "classification": 64
+    },
+    "A_FOOD_w_water": {
+        "unit": "tonne",
+        "name": "waste water treatment of food",
+        "classification": "38.21"
+    },
+    "A_FORE": {
+        "unit": "tonne",
+        "name": "products of forestry, logging and related services",
+        "classification": 2
+    },
+    "A_FO_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of food",
+        "classification": "38.21"
+    },
+    "A_FO_RECY": {
+        "unit": "tonne",
+        "name": "composting of food waste",
+        "classification": "38.11"
+    },
+    "A_FSHP": {
+        "unit": "tonne",
+        "name": "fish products",
+        "classification": "10.2"
+    },
+    "A_FURN": {
+        "unit": "MEUR",
+        "name": "furniture; other manufactured goods n.e.c.",
+        "classification": "31-32"
+    },
+    "A_F_aqua": {
+        "unit": "tonne",
+        "name": "fish from aquaculture",
+        "classification": "03.2"
+    },
+    "A_F_capture": {
+        "unit": "tonne",
+        "name": "fish from capture",
+        "classification": "03.1"
+    },
+    "A_Figsd": {
+        "unit": "tonne",
+        "name": "figs, dried",
+        "classification": "10.39"
+    },
+    "A_Figss": {
+        "unit": "tonne",
+        "name": "figs",
+        "classification": "01.22"
+    },
+    "A_Flaxw": {
+        "unit": "tonne",
+        "name": "flax fibre and tow",
+        "classification": "01.16"
+    },
+    "A_Fonio": {
+        "unit": "tonne",
+        "name": "fonio",
+        "classification": "01.29"
+    },
+    "A_Frozfrui": {
+        "unit": "tonne",
+        "name": "fruit, frozen",
+        "classification": "10.3"
+    },
+    "A_Frozvege": {
+        "unit": "tonne",
+        "name": "vegetables, frozen",
+        "classification": "10.3"
+    },
+    "A_GARM": {
+        "unit": "tonne",
+        "name": "wearing apparel; furs",
+        "classification": "13.2"
+    },
+    "A_GASD": {
+        "unit": "MEUR",
+        "name": "distribution services of gaseous fuels through mains (excl the gas)",
+        "classification": "35.2"
+    },
+    "A_GASE": {
+        "unit": "tonne",
+        "name": "natural gas extraction",
+        "classification": "06.2"
+    },
+    "A_GLAS": {
+        "unit": "tonne",
+        "name": "glass and glass products",
+        "classification": "23.1"
+    },
+    "A_GLAS_reuse": {
+        "unit": "tonne",
+        "name": "collection of glass bottles service",
+        "classification": "38.11"
+    },
+    "A_GLAW": {
+        "unit": "tonne",
+        "name": "recycling of glass",
+        "classification": "38.32"
+    },
+    "A_GL_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of glass",
+        "classification": "38.21"
+    },
+    "A_GL_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of glass",
+        "classification": "38.21"
+    },
+    "A_GL_LAND": {
+        "unit": "tonne",
+        "name": "landfill of glass",
+        "classification": "38.21"
+    },
+    "A_Garlc": {
+        "unit": "tonne",
+        "name": "garlic",
+        "classification": "01.13"
+    },
+    "A_Germe": {
+        "unit": "tonne",
+        "name": "germ of maize",
+        "classification": "01.19"
+    },
+    "A_Germt": {
+        "unit": "tonne",
+        "name": "germ of wheat",
+        "classification": "01.11"
+    },
+    "A_Gingr": {
+        "unit": "tonne",
+        "name": "ginger",
+        "classification": "01.28"
+    },
+    "A_Goamilk": {
+        "unit": "tonne",
+        "name": "goat milk",
+        "classification": "01.45"
+    },
+    "A_Gooss": {
+        "unit": "tonne",
+        "name": "gooseberries",
+        "classification": "01.25"
+    },
+    "A_Graid": {
+        "unit": "tonne",
+        "name": "mixed grain",
+        "classification": "01.11"
+    },
+    "A_Grapf": {
+        "unit": "tonne",
+        "name": "grapefruit and pomelo",
+        "classification": "01.21"
+    },
+    "A_Graps": {
+        "unit": "tonne",
+        "name": "grapes",
+        "classification": "01.21"
+    },
+    "A_Grou_shld": {
+        "unit": "tonne",
+        "name": "groundnuts, without shell",
+        "classification": "10.39"
+    },
+    "A_Groul": {
+        "unit": "tonne",
+        "name": "groundnuts, in shell",
+        "classification": "01.11"
+    },
+    "A_HA_ENER": {
+        "unit": "tonne",
+        "name": "A_HA_ENER",
+        "classification": ""
+    },
+    "A_HA_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of hazardous waste",
+        "classification": "38.21"
+    },
+    "A_HA_LAND": {
+        "unit": "tonne",
+        "name": "landfill of hazardous waste",
+        "classification": "38.21"
+    },
+    "A_HA_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of hazardous waste",
+        "classification": "38.21"
+    },
+    "A_HA_RECY": {
+        "unit": "tonne",
+        "name": "recycling of hazardous waste",
+        "classification": "38.32"
+    },
+    "A_HEAL": {
+        "unit": "MEUR",
+        "name": "health and social work services",
+        "classification": 86
+    },
+    "A_HORE": {
+        "unit": "MEUR",
+        "name": "hotel and restaurant services",
+        "classification": 55
+    },
+    "A_Haze_shld": {
+        "unit": "tonne",
+        "name": "hazelnuts, without shell",
+        "classification": "10.39"
+    },
+    "A_Hazel": {
+        "unit": "tonne",
+        "name": "hazelnuts, in shell",
+        "classification": "01.25"
+    },
+    "A_Hempd": {
+        "unit": "tonne",
+        "name": "hempseed",
+        "classification": "01.19"
+    },
+    "A_Honel": {
+        "unit": "tonne",
+        "name": "honey",
+        "classification": "01.49"
+    },
+    "A_Hops": {
+        "unit": "tonne",
+        "name": "hops",
+        "classification": "01.28"
+    },
+    "A_INCF": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of food",
+        "classification": "38.21"
+    },
+    "A_INCF_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of food",
+        "classification": "38.21"
+    },
+    "A_INCL": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of plastic/rubber",
+        "classification": "38.21"
+    },
+    "A_INCL_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of plastic and rubber",
+        "classification": "38.21"
+    },
+    "A_INCP": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of paper",
+        "classification": "38.21"
+    },
+    "A_INCP_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of paper",
+        "classification": "38.21"
+    },
+    "A_INCW": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of wood",
+        "classification": "38.21"
+    },
+    "A_INCW_no_recovery": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of wood waste",
+        "classification": "38.21"
+    },
+    "A_IRON": {
+        "unit": "tonne",
+        "name": "iron ores",
+        "classification": "07.1"
+    },
+    "A_Jojod": {
+        "unit": "tonne",
+        "name": "jojoba seeds",
+        "classification": "01.19"
+    },
+    "A_Jufruveg": {
+        "unit": "tonne",
+        "name": "juice and fruit and veg prepared",
+        "classification": "10.32"
+    },
+    "A_Jute": {
+        "unit": "tonne",
+        "name": "jute",
+        "classification": "01.16"
+    },
+    "A_Kapod": {
+        "unit": "tonne",
+        "name": "kapokseed, without shell",
+        "classification": "10.39"
+    },
+    "A_Kapot": {
+        "unit": "tonne",
+        "name": "kapok fruit",
+        "classification": "01.29"
+    },
+    "A_Kari": {
+        "unit": "tonne",
+        "name": "karite nuts (sheanuts)",
+        "classification": "01.29"
+    },
+    "A_Kfert": {
+        "unit": "tonne",
+        "name": "K fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_Kiwi": {
+        "unit": "tonne",
+        "name": "kiwi fruit",
+        "classification": "01.25"
+    },
+    "A_Kola": {
+        "unit": "tonne",
+        "name": "kolanuts",
+        "classification": "01.29"
+    },
+    "A_LANF": {
+        "unit": "tonne",
+        "name": "landfill of food",
+        "classification": "38.21"
+    },
+    "A_LANL": {
+        "unit": "tonne",
+        "name": "landfill of plastic and rubber",
+        "classification": "38.21"
+    },
+    "A_LANP": {
+        "unit": "tonne",
+        "name": "landfill of paper",
+        "classification": "38.21"
+    },
+    "A_LANW": {
+        "unit": "tonne",
+        "name": "landfill of wood",
+        "classification": "38.21"
+    },
+    "A_LETH": {
+        "unit": "tonne",
+        "name": "leather and leather products",
+        "classification": 15
+    },
+    "A_LZTO": {
+        "unit": "tonne",
+        "name": "lead, zinc and tin ores and concentrates",
+        "classification": "07.29"
+    },
+    "A_LZTP": {
+        "unit": "tonne",
+        "name": "lead, zinc and tin and products thereof",
+        "classification": "24.43"
+    },
+    "A_LZTW": {
+        "unit": "tonne",
+        "name": "recycling of lead, zinc and tin",
+        "classification": "24.43"
+    },
+    "A_LZT_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of lead, zinc and tin",
+        "classification": "38.21"
+    },
+    "A_LZT_LAND": {
+        "unit": "tonne",
+        "name": "landfill of lead, zinc and tin",
+        "classification": "38.21"
+    },
+    "A_Leeks": {
+        "unit": "tonne",
+        "name": "leeks and other alliaceous vegetables",
+        "classification": "01.13"
+    },
+    "A_Lemos": {
+        "unit": "tonne",
+        "name": "lemons and limes",
+        "classification": "01.13"
+    },
+    "A_Lents": {
+        "unit": "tonne",
+        "name": "lentils, dry",
+        "classification": "01.11"
+    },
+    "A_Letty": {
+        "unit": "tonne",
+        "name": "lettuce and chicory",
+        "classification": "01.13"
+    },
+    "A_Linsd": {
+        "unit": "tonne",
+        "name": "linseed",
+        "classification": "01.11"
+    },
+    "A_Lupis": {
+        "unit": "tonne",
+        "name": "lupins",
+        "classification": "01.11"
+    },
+    "A_MACH": {
+        "unit": "tonne",
+        "name": "machinery and equipment n.e.c.",
+        "classification": 28
+    },
+    "A_MANC": {
+        "unit": "tonne",
+        "name": "land application of manure",
+        "classification": "38.21"
+    },
+    "A_MARE": {
+        "unit": "MEUR",
+        "name": "renting services of machinery and equipment without operator and of personal and household goods",
+        "classification": 77
+    },
+    "A_MA_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of manure",
+        "classification": "38.21"
+    },
+    "A_MA_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of manure",
+        "classification": "38.21"
+    },
+    "A_MA_LAND": {
+        "unit": "tonne",
+        "name": "landfill of manure services",
+        "classification": ""
+    },
+    "A_MA_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of manure",
+        "classification": "38.21"
+    },
+    "A_MA_RECY": {
+        "unit": "tonne",
+        "name": "recycling of manure services",
+        "classification": ""
+    },
+    "A_MDIA": {
+        "unit": "tonne",
+        "name": "printed matter and recorded media",
+        "classification": 18
+    },
+    "A_MEIN": {
+        "unit": "tonne",
+        "name": "medical, precision and optical instruments, watches and clocks",
+        "classification": "26.5"
+    },
+    "A_METC": {
+        "unit": "tonne",
+        "name": "foundry work services",
+        "classification": "24.5"
+    },
+    "A_MGWG": {
+        "unit": "tonne",
+        "name": "gas works gas (incl the gas)",
+        "classification": "35.21"
+    },
+    "A_MM_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of mix metals",
+        "classification": "38.21"
+    },
+    "A_MM_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of mix metals",
+        "classification": "38.21"
+    },
+    "A_MM_LAND": {
+        "unit": "tonne",
+        "name": "landfill of mix metals",
+        "classification": "38.21"
+    },
+    "A_MM_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of mix metals",
+        "classification": "38.21"
+    },
+    "A_MM_RECY": {
+        "unit": "tonne",
+        "name": "recycling of mix metals",
+        "classification": "38.32"
+    },
+    "A_MNF_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "A_MNF_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "A_MNF_LAND": {
+        "unit": "tonne",
+        "name": "landfill of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "A_MNF_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "A_MNF_RECY": {
+        "unit": "tonne",
+        "name": "recycling of mix of non-ferrous metals",
+        "classification": "24.42"
+    },
+    "A_MOTO": {
+        "unit": "MEUR",
+        "name": "other vehicles",
+        "classification": "30.99"
+    },
+    "A_Maize": {
+        "unit": "tonne",
+        "name": "maize",
+        "classification": "01.11"
+    },
+    "A_Maizn": {
+        "unit": "tonne",
+        "name": "green corn (maize)",
+        "classification": "01.11"
+    },
+    "A_Mangs": {
+        "unit": "tonne",
+        "name": "mangoes",
+        "classification": "01.22"
+    },
+    "A_Manila": {
+        "unit": "tonne",
+        "name": "abaca manila hemp",
+        "classification": "01.16"
+    },
+    "A_Mate": {
+        "unit": "tonne",
+        "name": "mate",
+        "classification": "01.29"
+    },
+    "A_Melon": {
+        "unit": "tonne",
+        "name": "melons, cantaloupes",
+        "classification": "01.13"
+    },
+    "A_Melonse": {
+        "unit": "tonne",
+        "name": "melonseed",
+        "classification": "01.13"
+    },
+    "A_Millt": {
+        "unit": "tonne",
+        "name": "millet",
+        "classification": "01.11"
+    },
+    "A_Mushs": {
+        "unit": "tonne",
+        "name": "mushrooms",
+        "classification": "01.13"
+    },
+    "A_Mustd": {
+        "unit": "tonne",
+        "name": "mustard seed",
+        "classification": "01.11"
+    },
+    "A_NIKO": {
+        "unit": "tonne",
+        "name": "nickel ores and concentrates",
+        "classification": "07.29"
+    },
+    "A_NK_fert": {
+        "unit": "tonne",
+        "name": "other NK compounds, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_NPK": {
+        "unit": "tonne",
+        "name": "NPK fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_NP_fert": {
+        "unit": "tonne",
+        "name": "NP fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_NUCF": {
+        "unit": "tonne",
+        "name": "nuclear fuel",
+        "classification": "24.46"
+    },
+    "A_N_AmmNit": {
+        "unit": "tonne",
+        "name": "ammonium nitrate (an), as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_N_AmmSol": {
+        "unit": "tonne",
+        "name": "ammonium sulphate, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_N_CaAmNit": {
+        "unit": "tonne",
+        "name": "calcium ammonium nitrate (can) and other mixtures with calcium carbonate, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_N_solution": {
+        "unit": "tonne",
+        "name": "nitrogen solutions, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_N_urea": {
+        "unit": "tonne",
+        "name": "urea, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_Nat_Elec": {
+        "unit": "TJ",
+        "name": "Domestic electricity",
+        "classification": ""
+    },
+    "A_Nat_Fish": {
+        "unit": "tonne",
+        "name": "Domestic fish",
+        "classification": ""
+    },
+    "A_Nat_Heat": {
+        "unit": "TJ",
+        "name": "Domestic heat",
+        "classification": ""
+    },
+    "A_Nutms": {
+        "unit": "tonne",
+        "name": "nutmeg, mace, cardamoms",
+        "classification": "01.28"
+    },
+    "A_Nutss": {
+        "unit": "tonne",
+        "name": "nuts nes",
+        "classification": "01.25"
+    },
+    "A_OBUS": {
+        "unit": "MEUR",
+        "name": "other business services",
+        "classification": 74
+    },
+    "A_OFMA": {
+        "unit": "tonne",
+        "name": "office machinery and computers",
+        "classification": "26.2"
+    },
+    "A_OGPL": {
+        "unit": "tonne",
+        "name": "other hydrocarbons",
+        "classification": "06.2"
+    },
+    "A_ONFM": {
+        "unit": "tonne",
+        "name": "other non-ferrous metal products",
+        "classification": "24.45"
+    },
+    "A_ONFO": {
+        "unit": "tonne",
+        "name": "other non-ferrous metal ores and concentrates",
+        "classification": "07.29"
+    },
+    "A_ONFW": {
+        "unit": "tonne",
+        "name": "recycling of other non-ferrous metals",
+        "classification": "24.45"
+    },
+    "A_ONF_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of other non-ferrous metals",
+        "classification": "38.21"
+    },
+    "A_ONF_LAND": {
+        "unit": "tonne",
+        "name": "landfill of other non-ferrous metals",
+        "classification": "38.21"
+    },
+    "A_ONMM": {
+        "unit": "tonne",
+        "name": "other non-metallic mineral products",
+        "classification": "23.99"
+    },
+    "A_ORAN": {
+        "unit": "tonne",
+        "name": "uranium and thorium ores",
+        "classification": "07.21"
+    },
+    "A_ORGA": {
+        "unit": "MEUR",
+        "name": "membership organisation services n.e.c.",
+        "classification": 94
+    },
+    "A_OSER": {
+        "unit": "MEUR",
+        "name": "other services (e.g. spiritualists, dating services, shoe shiners, porters)",
+        "classification": 96
+    },
+    "A_OTRE": {
+        "unit": "MEUR",
+        "name": "other transport equipment",
+        "classification": 30
+    },
+    "A_Oatss": {
+        "unit": "tonne",
+        "name": "oats",
+        "classification": "01.11"
+    },
+    "A_Oiloliv": {
+        "unit": "tonne",
+        "name": "olive oil",
+        "classification": "10.41"
+    },
+    "A_Oilpalm": {
+        "unit": "tonne",
+        "name": "palm oil",
+        "classification": "10.41"
+    },
+    "A_Oilrape": {
+        "unit": "tonne",
+        "name": "rapeseed oil",
+        "classification": "10.41"
+    },
+    "A_Oilsoy": {
+        "unit": "tonne",
+        "name": "soybean oil",
+        "classification": "10.41"
+    },
+    "A_Oilss": {
+        "unit": "tonne",
+        "name": "oilseeds nes",
+        "classification": "01.11"
+    },
+    "A_Okraa": {
+        "unit": "tonne",
+        "name": "okra",
+        "classification": "01.13"
+    },
+    "A_Olivs": {
+        "unit": "tonne",
+        "name": "olives",
+        "classification": "01.26"
+    },
+    "A_Onion": {
+        "unit": "tonne",
+        "name": "onions, shallots (green)",
+        "classification": "01.13"
+    },
+    "A_Onioy": {
+        "unit": "tonne",
+        "name": "onions, dry",
+        "classification": "01.13"
+    },
+    "A_Orans": {
+        "unit": "tonne",
+        "name": "oranges",
+        "classification": "01.23"
+    },
+    "A_Othalbev": {
+        "unit": "tonne",
+        "name": "other alcoholic beverages",
+        "classification": "11.04"
+    },
+    "A_Othdiar": {
+        "unit": "tonne",
+        "name": "other dairy products",
+        "classification": "10.51"
+    },
+    "A_Othflour": {
+        "unit": "tonne",
+        "name": "other flour",
+        "classification": "10.6"
+    },
+    "A_Othmeat": {
+        "unit": "tonne",
+        "name": "other anim",
+        "classification": "01.49"
+    },
+    "A_Othproc": {
+        "unit": "tonne",
+        "name": "other processed food",
+        "classification": "10.89"
+    },
+    "A_Othvoils": {
+        "unit": "tonne",
+        "name": "other vegetable oil",
+        "classification": "10.41"
+    },
+    "A_PADF": {
+        "unit": "MEUR",
+        "name": "public administration and defence services; compulsory social security services",
+        "classification": 84
+    },
+    "A_PAPE": {
+        "unit": "tonne",
+        "name": "paper and paper products",
+        "classification": "17.2"
+    },
+    "A_PAPR": {
+        "unit": "tonne",
+        "name": "recycling of paper",
+        "classification": "38.32"
+    },
+    "A_PA_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of paper",
+        "classification": "38.21"
+    },
+    "A_PK_fert": {
+        "unit": "tonne",
+        "name": "PK compounds, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_PLAS": {
+        "unit": "tonne",
+        "name": "plastics, basic",
+        "classification": "20.16"
+    },
+    "A_PLAW": {
+        "unit": "tonne",
+        "name": "recycling of plastic and rubber",
+        "classification": "38.32"
+    },
+    "A_PL_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of plastic and rubber",
+        "classification": "38.21"
+    },
+    "A_PM_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of precious metals",
+        "classification": "38.21"
+    },
+    "A_PM_LAND": {
+        "unit": "tonne",
+        "name": "landfill of precious metals",
+        "classification": "38.21"
+    },
+    "A_POWB": {
+        "unit": "TJ",
+        "name": "electricity by biomass and waste",
+        "classification": "35.11"
+    },
+    "A_POWC": {
+        "unit": "TJ",
+        "name": "electricity by coal",
+        "classification": "35.11"
+    },
+    "A_POWD": {
+        "unit": "MEUR",
+        "name": "distribution and trade services of electricity (excl the electricity)",
+        "classification": "35.13"
+    },
+    "A_POWG": {
+        "unit": "TJ",
+        "name": "electricity by gas",
+        "classification": "35.11"
+    },
+    "A_POWH": {
+        "unit": "TJ",
+        "name": "electricity by hydro",
+        "classification": "35.11"
+    },
+    "A_POWM": {
+        "unit": "TJ",
+        "name": "electricity by geothermal",
+        "classification": "35.11"
+    },
+    "A_POWN": {
+        "unit": "TJ",
+        "name": "electricity by nuclear",
+        "classification": "35.11"
+    },
+    "A_POWO": {
+        "unit": "TJ",
+        "name": "electricity by tide, wave, ocean",
+        "classification": "35.11"
+    },
+    "A_POWP": {
+        "unit": "TJ",
+        "name": "electricity by petroleum and other oil derivatives",
+        "classification": "35.11"
+    },
+    "A_POWS": {
+        "unit": "TJ",
+        "name": "electricity by solar photovoltaic",
+        "classification": "35.11"
+    },
+    "A_POWW": {
+        "unit": "TJ",
+        "name": "electricity by wind",
+        "classification": "35.11"
+    },
+    "A_POWZ": {
+        "unit": "TJ",
+        "name": "electricity nec",
+        "classification": "35.11"
+    },
+    "A_PREM": {
+        "unit": "tonne",
+        "name": "precious metals",
+        "classification": "24.41"
+    },
+    "A_PREO": {
+        "unit": "tonne",
+        "name": "precious metal ores and concentrates",
+        "classification": "07.29"
+    },
+    "A_PREW": {
+        "unit": "tonne",
+        "name": "recycling of precious metals",
+        "classification": "24.41"
+    },
+    "A_PRHH": {
+        "unit": "MEUR",
+        "name": "private households with employed persons (maids, cooks, waiters, gardeners, gatekeepers, chauffeurs etc)",
+        "classification": 97
+    },
+    "A_PTEL": {
+        "unit": "MEUR",
+        "name": "post and telecommunication services",
+        "classification": 53
+    },
+    "A_PULP": {
+        "unit": "tonne",
+        "name": "pulp",
+        "classification": "17.1"
+    },
+    "A_Papas": {
+        "unit": "tonne",
+        "name": "papayas",
+        "classification": "01.22"
+    },
+    "A_Pasta": {
+        "unit": "tonne",
+        "name": "pasta",
+        "classification": "10.73"
+    },
+    "A_Peacs": {
+        "unit": "tonne",
+        "name": "peaches and nectarines",
+        "classification": "01.24"
+    },
+    "A_Pears": {
+        "unit": "tonne",
+        "name": "pears",
+        "classification": "01.24"
+    },
+    "A_Peasn": {
+        "unit": "tonne",
+        "name": "peas, green",
+        "classification": "01.11"
+    },
+    "A_Peasy": {
+        "unit": "tonne",
+        "name": "peas, dry",
+        "classification": "01.11"
+    },
+    "A_Pepp": {
+        "unit": "tonne",
+        "name": "pepper",
+        "classification": "01.28"
+    },
+    "A_Peppt": {
+        "unit": "tonne",
+        "name": "peppermint, spearmint",
+        "classification": "01.28"
+    },
+    "A_Perss": {
+        "unit": "tonne",
+        "name": "persimmons",
+        "classification": "01.13"
+    },
+    "A_Pfert": {
+        "unit": "tonne",
+        "name": "phosphatic fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "A_Piges": {
+        "unit": "tonne",
+        "name": "pigeon peas",
+        "classification": "01.11"
+    },
+    "A_Pines": {
+        "unit": "tonne",
+        "name": "pineapples",
+        "classification": "01.22"
+    },
+    "A_Pists": {
+        "unit": "tonne",
+        "name": "pistachios",
+        "classification": "01.25"
+    },
+    "A_Plans": {
+        "unit": "tonne",
+        "name": "plantains",
+        "classification": "01.22"
+    },
+    "A_Plum": {
+        "unit": "tonne",
+        "name": "plums, dried",
+        "classification": "10.39"
+    },
+    "A_Plums": {
+        "unit": "tonne",
+        "name": "plums",
+        "classification": "01.24"
+    },
+    "A_Poleggs": {
+        "unit": "tonne",
+        "name": "poultry - eggs",
+        "classification": "01.47"
+    },
+    "A_Poppd": {
+        "unit": "tonne",
+        "name": "poppy seed",
+        "classification": "01.11"
+    },
+    "A_Potas": {
+        "unit": "tonne",
+        "name": "potatoes",
+        "classification": "01.13"
+    },
+    "A_Prmilk": {
+        "unit": "tonne",
+        "name": "processed milk",
+        "classification": "10.51"
+    },
+    "A_Prorice": {
+        "unit": "tonne",
+        "name": "rice",
+        "classification": "10.6"
+    },
+    "A_Pulss": {
+        "unit": "tonne",
+        "name": "pulses nes",
+        "classification": "01.11"
+    },
+    "A_Pumps": {
+        "unit": "tonne",
+        "name": "pumpkins, squash and gourds",
+        "classification": "01.19"
+    },
+    "A_Pyred": {
+        "unit": "tonne",
+        "name": "pyrethrum, dried flowers",
+        "classification": "01.28"
+    },
+    "A_Quina": {
+        "unit": "tonne",
+        "name": "quinoa",
+        "classification": "01.11"
+    },
+    "A_Quins": {
+        "unit": "tonne",
+        "name": "quinces",
+        "classification": "01.24"
+    },
+    "A_RATV": {
+        "unit": "tonne",
+        "name": "radio, television and communication equipment and apparatus",
+        "classification": "26.3"
+    },
+    "A_REAL": {
+        "unit": "MEUR",
+        "name": "real estate services",
+        "classification": 68
+    },
+    "A_RECR": {
+        "unit": "MEUR",
+        "name": "recreational, cultural and sporting services",
+        "classification": 59
+    },
+    "A_REFN": {
+        "unit": "tonne",
+        "name": "petroleum refinery",
+        "classification": "19.2"
+    },
+    "A_RESD": {
+        "unit": "MEUR",
+        "name": "research and development services",
+        "classification": 72
+    },
+    "A_RUBP": {
+        "unit": "tonne",
+        "name": "rubber and plastic products",
+        "classification": 22
+    },
+    "A_RYMS": {
+        "unit": "MEUR",
+        "name": "services relating to the collection and sorting of scrap/secondary materials (excl the material)",
+        "classification": "38.32"
+    },
+    "A_Ramie": {
+        "unit": "tonne",
+        "name": "ramie",
+        "classification": "01.16"
+    },
+    "A_Raped": {
+        "unit": "tonne",
+        "name": "rapeseed or colza seed",
+        "classification": "01.11"
+    },
+    "A_Rasps": {
+        "unit": "tonne",
+        "name": "raspberries",
+        "classification": "01.25"
+    },
+    "A_Ricey": {
+        "unit": "tonne",
+        "name": "rice, paddy",
+        "classification": "01.12"
+    },
+    "A_Roots": {
+        "unit": "tonne",
+        "name": "roots and tubers nes",
+        "classification": "01.13"
+    },
+    "A_Roscoff": {
+        "unit": "tonne",
+        "name": "roasted coffee",
+        "classification": "10.83"
+    },
+    "A_Rubber": {
+        "unit": "tonne",
+        "name": "natural rubber",
+        "classification": 2
+    },
+    "A_Ryee": {
+        "unit": "tonne",
+        "name": "rye",
+        "classification": "01.11"
+    },
+    "A_SDCL": {
+        "unit": "tonne",
+        "name": "sand and clay",
+        "classification": "08.12"
+    },
+    "A_SE_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of sewage sludge",
+        "classification": 37
+    },
+    "A_SE_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of sewage sludge",
+        "classification": 37
+    },
+    "A_SE_LAND": {
+        "unit": "tonne",
+        "name": "landfill of sewage sludge",
+        "classification": 37
+    },
+    "A_SE_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of sewage sludge",
+        "classification": 37
+    },
+    "A_SE_RECY": {
+        "unit": "tonne",
+        "name": "recycling of sewage sludge",
+        "classification": 37
+    },
+    "A_SE_biog": {
+        "unit": "tonne",
+        "name": "biogasification and land application of sewage",
+        "classification": "38.21"
+    },
+    "A_SE_wwater": {
+        "unit": "tonne",
+        "name": "provision of waste water services for sewage",
+        "classification": 37
+    },
+    "A_STEL": {
+        "unit": "tonne",
+        "name": "basic iron and steel and of ferro-alloys and first products thereof",
+        "classification": "24.1"
+    },
+    "A_STEW": {
+        "unit": "tonne",
+        "name": "recycling of steel",
+        "classification": "38.32"
+    },
+    "A_STON": {
+        "unit": "tonne",
+        "name": "stone",
+        "classification": "08.11"
+    },
+    "A_ST_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of steel",
+        "classification": "38.21"
+    },
+    "A_ST_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of steel",
+        "classification": "38.21"
+    },
+    "A_ST_LAND": {
+        "unit": "tonne",
+        "name": "landfill of steel",
+        "classification": "38.21"
+    },
+    "A_ST_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of steel",
+        "classification": "38.21"
+    },
+    "A_Saffd": {
+        "unit": "tonne",
+        "name": "safflower seed",
+        "classification": "01.11"
+    },
+    "A_Seedcot": {
+        "unit": "tonne",
+        "name": "seedcotton",
+        "classification": "01.11"
+    },
+    "A_Sesad": {
+        "unit": "tonne",
+        "name": "sesame seed",
+        "classification": "01.11"
+    },
+    "A_Shemilk": {
+        "unit": "tonne",
+        "name": "sheep - milk",
+        "classification": "01.45"
+    },
+    "A_Silk_ree": {
+        "unit": "tonne",
+        "name": "cocoons, reelable",
+        "classification": "01.49"
+    },
+    "A_Silkw": {
+        "unit": "tonne",
+        "name": "silk, raw",
+        "classification": "01.49"
+    },
+    "A_Sisal": {
+        "unit": "tonne",
+        "name": "sisal",
+        "classification": "01.16"
+    },
+    "A_Snaia": {
+        "unit": "tonne",
+        "name": "snails and sea snails",
+        "classification": "01.49"
+    },
+    "A_Sorgm": {
+        "unit": "tonne",
+        "name": "sorghum",
+        "classification": "01.11"
+    },
+    "A_Soybs": {
+        "unit": "tonne",
+        "name": "soybeans",
+        "classification": "01.25"
+    },
+    "A_Spics": {
+        "unit": "tonne",
+        "name": "spices nes",
+        "classification": "01.28"
+    },
+    "A_Spinh": {
+        "unit": "tonne",
+        "name": "spinach",
+        "classification": "01.13"
+    },
+    "A_Stras": {
+        "unit": "tonne",
+        "name": "strawberries",
+        "classification": "01.25"
+    },
+    "A_Stris": {
+        "unit": "tonne",
+        "name": "string beans",
+        "classification": "01.25"
+    },
+    "A_Sugae": {
+        "unit": "tonne",
+        "name": "sugar cane",
+        "classification": "01.14"
+    },
+    "A_Sugar": {
+        "unit": "tonne",
+        "name": "sugars",
+        "classification": "10.81"
+    },
+    "A_Sugas": {
+        "unit": "tonne",
+        "name": "sugar crops nes",
+        "classification": "01.19"
+    },
+    "A_Sugat": {
+        "unit": "tonne",
+        "name": "sugar beet",
+        "classification": "01.14"
+    },
+    "A_Sunfd": {
+        "unit": "tonne",
+        "name": "sunflower seed",
+        "classification": "01.11"
+    },
+    "A_Swees": {
+        "unit": "tonne",
+        "name": "sweet potatoes",
+        "classification": "01.13"
+    },
+    "A_TAIR": {
+        "unit": "MEUR",
+        "name": "transport, air",
+        "classification": 51
+    },
+    "A_TAUX": {
+        "unit": "MEUR",
+        "name": "supporting and auxiliary transport services; travel agency services",
+        "classification": 52
+    },
+    "A_TDFU": {
+        "unit": "MEUR",
+        "name": "retail trade services of motor fuel",
+        "classification": 45
+    },
+    "A_TDMO": {
+        "unit": "MEUR",
+        "name": "sale, maintenance and repair of motor vehicles",
+        "classification": 45
+    },
+    "A_TDRT": {
+        "unit": "MEUR",
+        "name": "retail trade services, except of motor vehicles and motorcycles; repair services of personal and household goods",
+        "classification": 47
+    },
+    "A_TDWH": {
+        "unit": "MEUR",
+        "name": "wholesale trade and commission trade services, except of motor vehicles and motorcycles",
+        "classification": 46
+    },
+    "A_TEXT": {
+        "unit": "tonne",
+        "name": "textiles",
+        "classification": 13
+    },
+    "A_TE_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of textiles",
+        "classification": "38.21"
+    },
+    "A_TE_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of textiles",
+        "classification": "38.21"
+    },
+    "A_TE_LAND": {
+        "unit": "tonne",
+        "name": "landfill of textiles",
+        "classification": "38.21"
+    },
+    "A_TE_RECY": {
+        "unit": "tonne",
+        "name": "recycling of textiles",
+        "classification": "38.32"
+    },
+    "A_TLND": {
+        "unit": "MEUR",
+        "name": "transport, road",
+        "classification": 49
+    },
+    "A_TOBC": {
+        "unit": "tonne",
+        "name": "tobacco products",
+        "classification": 12
+    },
+    "A_TPIP": {
+        "unit": "MEUR",
+        "name": "transport service, pipeline",
+        "classification": "49.5"
+    },
+    "A_TRAI": {
+        "unit": "MEUR",
+        "name": "transport, railway",
+        "classification": 49
+    },
+    "A_TWAI": {
+        "unit": "MEUR",
+        "name": "transport, inland water",
+        "classification": 50
+    },
+    "A_TWAS": {
+        "unit": "MEUR",
+        "name": "transport, sea and costal water",
+        "classification": 50
+    },
+    "A_Talld": {
+        "unit": "tonne",
+        "name": "tallowtree seeds",
+        "classification": "01.11"
+    },
+    "A_Taro": {
+        "unit": "tonne",
+        "name": "taro (cocoyam)",
+        "classification": "01.26"
+    },
+    "A_Teaa": {
+        "unit": "tonne",
+        "name": "tea",
+        "classification": "01.27"
+    },
+    "A_Tmand": {
+        "unit": "tonne",
+        "name": "tangerines, mandarins, clementines, satsumas",
+        "classification": "01.23"
+    },
+    "A_Tobac": {
+        "unit": "tonne",
+        "name": "tobacco leaves",
+        "classification": "01.15"
+    },
+    "A_Tomas": {
+        "unit": "tonne",
+        "name": "tomatoes, fresh",
+        "classification": "01.13"
+    },
+    "A_Trite": {
+        "unit": "tonne",
+        "name": "triticale",
+        "classification": "01.11"
+    },
+    "A_Tung_nuts": {
+        "unit": "tonne",
+        "name": "tung nuts",
+        "classification": "01.25"
+    },
+    "A_UN_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of unsorted waste",
+        "classification": "38.21"
+    },
+    "A_UN_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of unsorted waste",
+        "classification": "38.21"
+    },
+    "A_UN_LAND": {
+        "unit": "tonne",
+        "name": "landfill of unsorted waste",
+        "classification": "38.21"
+    },
+    "A_UN_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of unsorted waste",
+        "classification": "38.21"
+    },
+    "A_UN_RECY": {
+        "unit": "tonne",
+        "name": "recycling of unsorted waste",
+        "classification": "38.32"
+    },
+    "A_Vania": {
+        "unit": "tonne",
+        "name": "vanilla",
+        "classification": "01.28"
+    },
+    "A_Vegfats": {
+        "unit": "tonne",
+        "name": "vegetable fats",
+        "classification": "10.41"
+    },
+    "A_Vegleg_nes": {
+        "unit": "tonne",
+        "name": "broad beans, green",
+        "classification": "01.13"
+    },
+    "A_Vetcs": {
+        "unit": "tonne",
+        "name": "vetches",
+        "classification": "01.11"
+    },
+    "A_WATR": {
+        "unit": "MEUR",
+        "name": "collected and purified water, distribution services of water",
+        "classification": 36
+    },
+    "A_WOOW": {
+        "unit": "tonne",
+        "name": "recycling of wood",
+        "classification": "38.32"
+    },
+    "A_WO_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of wood",
+        "classification": "38.21"
+    },
+    "A_Walnd": {
+        "unit": "tonne",
+        "name": "walnuts, without shell",
+        "classification": "10.39"
+    },
+    "A_Walnl": {
+        "unit": "tonne",
+        "name": "walnuts, in shell",
+        "classification": "01.25"
+    },
+    "A_Wates": {
+        "unit": "tonne",
+        "name": "watermelons",
+        "classification": "01.13"
+    },
+    "A_Wheat": {
+        "unit": "tonne",
+        "name": "wheat",
+        "classification": "01.11"
+    },
+    "A_Whflour": {
+        "unit": "tonne",
+        "name": "wheat flour",
+        "classification": "10.6"
+    },
+    "A_Wine": {
+        "unit": "tonne",
+        "name": "wine",
+        "classification": "11.02"
+    },
+    "A_Yams": {
+        "unit": "tonne",
+        "name": "yams",
+        "classification": "01.13"
+    },
+    "A_auto": {
+        "unit": "items",
+        "name": "cars",
+        "classification": 29
+    },
+    "A_bus": {
+        "unit": "items",
+        "name": "buses",
+        "classification": 29
+    },
+    "A_frtrop_nes": {
+        "unit": "tonne",
+        "name": "fruit, tropical (fresh) nes",
+        "classification": "01.22"
+    },
+    "A_lCammeat": {
+        "unit": "tonne",
+        "name": "camel meat",
+        "classification": "01.42"
+    },
+    "A_lCatmeat": {
+        "unit": "tonne",
+        "name": "cattle meat",
+        "classification": "01.41"
+    },
+    "A_lGoameat": {
+        "unit": "tonne",
+        "name": "goat meat",
+        "classification": "01.45"
+    },
+    "A_lPolmeat": {
+        "unit": "tonne",
+        "name": "poultry",
+        "classification": "01.47"
+    },
+    "A_lShemeat": {
+        "unit": "tonne",
+        "name": "sheep meat",
+        "classification": "01.45"
+    },
+    "A_lSwmeat": {
+        "unit": "tonne",
+        "name": "swine",
+        "classification": "01.46"
+    },
+    "A_oFibrs": {
+        "unit": "tonne",
+        "name": "fibre crops nes",
+        "classification": "01.16"
+    },
+    "A_oFru_cit": {
+        "unit": "tonne",
+        "name": "citrus fruit nes",
+        "classification": "01.23"
+    },
+    "A_oFru_fresh": {
+        "unit": "tonne",
+        "name": "fruit, fresh nes",
+        "classification": "01.29"
+    },
+    "A_oFru_pom": {
+        "unit": "tonne",
+        "name": "pome fruit nes",
+        "classification": "01.24"
+    },
+    "A_oFru_ston": {
+        "unit": "tonne",
+        "name": "stone fruit, fresh nes",
+        "classification": "01.24"
+    },
+    "A_oVege_fresh": {
+        "unit": "tonne",
+        "name": "vegetables, fresh n.e.s.",
+        "classification": "01.13"
+    },
+    "A_pBovmeat": {
+        "unit": "tonne",
+        "name": "beef meat as carcass",
+        "classification": "10.11"
+    },
+    "A_pDermeat": {
+        "unit": "tonne",
+        "name": "other products from meat (lard, fat, homogenized meat)",
+        "classification": "10.11"
+    },
+    "A_pMuGomeat": {
+        "unit": "tonne",
+        "name": "mutton and goat meat",
+        "classification": "10.11"
+    },
+    "A_pOthmeat": {
+        "unit": "tonne",
+        "name": "meat other",
+        "classification": "10.11"
+    },
+    "A_pPigmeat": {
+        "unit": "tonne",
+        "name": "pig meat as carcass",
+        "classification": "10.11"
+    },
+    "A_pPolmeat": {
+        "unit": "tonne",
+        "name": "poultry meat",
+        "classification": "10.12"
+    },
+    "A_palm": {
+        "unit": "tonne",
+        "name": "oil palm fruit",
+        "classification": "01.11"
+    },
+    "A_truck": {
+        "unit": "items",
+        "name": "trucks",
+        "classification": 29
+    },
+    "EF_AGSL": {
+        "unit": "TJ",
+        "name": "Aviation Gasoline, combustion of",
+        "classification": ""
+    },
+    "EF_ANTH": {
+        "unit": "TJ",
+        "name": "Anthracite, combustion of",
+        "classification": ""
+    },
+    "EF_BIOD": {
+        "unit": "TJ",
+        "name": "Biodiesels, combustion of",
+        "classification": ""
+    },
+    "EF_BIOG": {
+        "unit": "TJ",
+        "name": "Biogasoline, combustion of",
+        "classification": ""
+    },
+    "EF_BITU": {
+        "unit": "TJ",
+        "name": "Bitumen, combustion of",
+        "classification": ""
+    },
+    "EF_BKBP": {
+        "unit": "TJ",
+        "name": "BKB/Peat Briquettes, combustion of",
+        "classification": ""
+    },
+    "EF_CHAR": {
+        "unit": "TJ",
+        "name": "Charcoal, combustion of",
+        "classification": ""
+    },
+    "EF_COIL": {
+        "unit": "TJ",
+        "name": "Crude petroleum and services related to crude oil extraction, excluding surveying, combustion of",
+        "classification": ""
+    },
+    "EF_COKC": {
+        "unit": "TJ",
+        "name": "Coking Coal, combustion of",
+        "classification": ""
+    },
+    "EF_COKE": {
+        "unit": "TJ",
+        "name": "Coke Oven Coke, combustion of",
+        "classification": ""
+    },
+    "EF_COOG": {
+        "unit": "TJ",
+        "name": "Coke oven gas, combustion of",
+        "classification": ""
+    },
+    "EF_COTA": {
+        "unit": "TJ",
+        "name": "Coal Tar, combustion of",
+        "classification": ""
+    },
+    "EF_DOIL": {
+        "unit": "TJ",
+        "name": "Gas/Diesel Oil, combustion of",
+        "classification": ""
+    },
+    "EF_ETHA": {
+        "unit": "TJ",
+        "name": "Ethane, combustion of",
+        "classification": ""
+    },
+    "EF_FOIL": {
+        "unit": "TJ",
+        "name": "Heavy Fuel Oil, combustion of",
+        "classification": ""
+    },
+    "EF_FORE": {
+        "unit": "TJ",
+        "name": "Products of forestry, logging and related services (02), combustion of",
+        "classification": ""
+    },
+    "EF_GASE": {
+        "unit": "TJ",
+        "name": "Natural gas and services related to natural gas extraction, excluding surveying, combustion of",
+        "classification": ""
+    },
+    "EF_GASL": {
+        "unit": "TJ",
+        "name": "Natural Gas Liquids, combustion of",
+        "classification": ""
+    },
+    "EF_GCOK": {
+        "unit": "TJ",
+        "name": "Gas Coke, combustion of",
+        "classification": ""
+    },
+    "EF_GJET": {
+        "unit": "TJ",
+        "name": "Gasoline Type Jet Fuel, combustion of",
+        "classification": ""
+    },
+    "EF_KERO": {
+        "unit": "TJ",
+        "name": "Kerosene, combustion of",
+        "classification": ""
+    },
+    "EF_KJET": {
+        "unit": "TJ",
+        "name": "Kerosene Type Jet Fuel, combustion of",
+        "classification": ""
+    },
+    "EF_LIBC": {
+        "unit": "TJ",
+        "name": "Lignite/Brown Coal, combustion of",
+        "classification": ""
+    },
+    "EF_LPGA": {
+        "unit": "TJ",
+        "name": "Liquefied Petroleum Gases (LPG), combustion of",
+        "classification": ""
+    },
+    "EF_LUBR": {
+        "unit": "TJ",
+        "name": "Lubricants, combustion of",
+        "classification": ""
+    },
+    "EF_MBFG": {
+        "unit": "TJ",
+        "name": "Blast Furnace Gas, combustion of",
+        "classification": ""
+    },
+    "EF_MBIO": {
+        "unit": "TJ",
+        "name": "Biogas, combustion of",
+        "classification": ""
+    },
+    "EF_MGSL": {
+        "unit": "TJ",
+        "name": "Motor Gasoline, combustion of",
+        "classification": ""
+    },
+    "EF_MGWG": {
+        "unit": "TJ",
+        "name": "Gas Works Gas, combustion of",
+        "classification": ""
+    },
+    "EF_MOSG": {
+        "unit": "TJ",
+        "name": "Oxygen Steel Furnace Gas, combustion of",
+        "classification": ""
+    },
+    "EF_NAPT": {
+        "unit": "TJ",
+        "name": "Naphtha, combustion of",
+        "classification": ""
+    },
+    "EF_NSPP": {
+        "unit": "TJ",
+        "name": "Non-specified Petroleum Products, combustion of",
+        "classification": ""
+    },
+    "EF_OTBC": {
+        "unit": "TJ",
+        "name": "Other Bituminous Coal, combustion of",
+        "classification": ""
+    },
+    "EF_PARW": {
+        "unit": "TJ",
+        "name": "Paraffin Waxes, combustion of",
+        "classification": ""
+    },
+    "EF_PATF": {
+        "unit": "TJ",
+        "name": "Patent Fuel, combustion of",
+        "classification": ""
+    },
+    "EF_PEAT": {
+        "unit": "TJ",
+        "name": "Peat, combustion of",
+        "classification": ""
+    },
+    "EF_PETC": {
+        "unit": "TJ",
+        "name": "Petroleum Coke, combustion of",
+        "classification": ""
+    },
+    "EF_RGAS": {
+        "unit": "TJ",
+        "name": "Refinery Gas, combustion of",
+        "classification": ""
+    },
+    "EF_SUBC": {
+        "unit": "TJ",
+        "name": "Sub-Bituminous Coal, combustion of",
+        "classification": ""
+    },
+    "EF_WHSP": {
+        "unit": "TJ",
+        "name": "White Spirit & SBP, combustion of",
+        "classification": ""
+    },
+    "EF_WOOD": {
+        "unit": "TJ",
+        "name": "Wood, combustion of",
+        "classification": ""
+    },
+    "F_HOUS": {
+        "unit": "p",
+        "name": "Final consumption expenditure by households",
+        "classification": ""
+    },
+    "M_ADDC": {
+        "unit": "tonne",
+        "name": "additives/blending components",
+        "classification": "20.59"
+    },
+    "M_AGSL": {
+        "unit": "tonne",
+        "name": "aviation gasoline",
+        "classification": "19.2"
+    },
+    "M_ALUM": {
+        "unit": "tonne",
+        "name": "aluminium and aluminium products",
+        "classification": "24.42"
+    },
+    "M_ALUO": {
+        "unit": "tonne",
+        "name": "aluminium ores and concentrates",
+        "classification": "07.29"
+    },
+    "M_ALUW": {
+        "unit": "tonne",
+        "name": "recycling of aluminium",
+        "classification": "24.42"
+    },
+    "M_AL_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of aluminium",
+        "classification": "38.21"
+    },
+    "M_AL_LAND": {
+        "unit": "tonne",
+        "name": "landfill of aluminium",
+        "classification": "38.21"
+    },
+    "M_ANTH": {
+        "unit": "tonne",
+        "name": "anthracite",
+        "classification": "05.2"
+    },
+    "M_ASHW": {
+        "unit": "tonne",
+        "name": "recycling of ashes",
+        "classification": "38.32"
+    },
+    "M_AS_LAND": {
+        "unit": "tonne",
+        "name": "landfill of ashes",
+        "classification": "38.21"
+    },
+    "M_Agavs": {
+        "unit": "tonne",
+        "name": "agave fibres nes",
+        "classification": "01.16"
+    },
+    "M_Almod": {
+        "unit": "tonne",
+        "name": "almonds, without shell",
+        "classification": "10.39"
+    },
+    "M_Almol": {
+        "unit": "tonne",
+        "name": "almonds, in shell",
+        "classification": "01.25"
+    },
+    "M_Anim_ofat": {
+        "unit": "tonne",
+        "name": "M_Anim_ofat",
+        "classification": ""
+    },
+    "M_Anisr": {
+        "unit": "tonne",
+        "name": "anise, badian, fennel",
+        "classification": "01.28"
+    },
+    "M_Appls": {
+        "unit": "tonne",
+        "name": "apples",
+        "classification": "01.22"
+    },
+    "M_Apris": {
+        "unit": "tonne",
+        "name": "apricots",
+        "classification": "01.24"
+    },
+    "M_Apriy": {
+        "unit": "tonne",
+        "name": "apricots, dried",
+        "classification": "10.39"
+    },
+    "M_Arecs": {
+        "unit": "tonne",
+        "name": "areca nuts",
+        "classification": "01.25"
+    },
+    "M_Artis": {
+        "unit": "tonne",
+        "name": "artichokes",
+        "classification": "01.13"
+    },
+    "M_Aspas": {
+        "unit": "tonne",
+        "name": "asparagus",
+        "classification": "01.13"
+    },
+    "M_Avocs": {
+        "unit": "tonne",
+        "name": "avocados",
+        "classification": "01.22"
+    },
+    "M_BA_INCI": {
+        "unit": "tonne",
+        "name": "energy recovery of batteries and accumulators waste",
+        "classification": "38.21"
+    },
+    "M_BA_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of batteries and accumulators waste",
+        "classification": "38.21"
+    },
+    "M_BA_LAND": {
+        "unit": "tonne",
+        "name": "landfill of batteries and accumulators waste",
+        "classification": "38.21"
+    },
+    "M_BA_RECY": {
+        "unit": "tonne",
+        "name": "recycling of batteries and accumulators waste",
+        "classification": "24.43"
+    },
+    "M_BIOD": {
+        "unit": "tonne",
+        "name": "biodiesels",
+        "classification": "20.59"
+    },
+    "M_BIOG": {
+        "unit": "tonne",
+        "name": "biogasoline",
+        "classification": "20.59"
+    },
+    "M_BITU": {
+        "unit": "tonne",
+        "name": "bitumen",
+        "classification": "19.2"
+    },
+    "M_BKBP": {
+        "unit": "tonne",
+        "name": "brown coal/peat briquettes, combustion of",
+        "classification": "19.1"
+    },
+    "M_BRIK": {
+        "unit": "tonne",
+        "name": "bricks, tiles and construction products, in baked clay",
+        "classification": "23.32"
+    },
+    "M_Bambs": {
+        "unit": "tonne",
+        "name": "bambara beans",
+        "classification": "01.25"
+    },
+    "M_Banas": {
+        "unit": "tonne",
+        "name": "bananas",
+        "classification": "01.22"
+    },
+    "M_Barld": {
+        "unit": "tonne",
+        "name": "barley, pearled",
+        "classification": "10.89"
+    },
+    "M_Barlt": {
+        "unit": "tonne",
+        "name": "pot barley",
+        "classification": "10.89"
+    },
+    "M_Barly": {
+        "unit": "tonne",
+        "name": "barley",
+        "classification": "01.11"
+    },
+    "M_Bastr": {
+        "unit": "tonne",
+        "name": "jute-like fibres",
+        "classification": "01.16"
+    },
+    "M_Beann": {
+        "unit": "tonne",
+        "name": "beans, green",
+        "classification": "01.25"
+    },
+    "M_Beany": {
+        "unit": "tonne",
+        "name": "beans, dry",
+        "classification": "01.25"
+    },
+    "M_Beer": {
+        "unit": "tonne",
+        "name": "beer",
+        "classification": "11.05"
+    },
+    "M_Beer_barl": {
+        "unit": "tonne",
+        "name": "beer of barley",
+        "classification": "11.05"
+    },
+    "M_Beer_maiz": {
+        "unit": "tonne",
+        "name": "beer of millet",
+        "classification": "11.04"
+    },
+    "M_Beer_millet": {
+        "unit": "tonne",
+        "name": "beer of maize",
+        "classification": "11.04"
+    },
+    "M_Beer_sorg": {
+        "unit": "tonne",
+        "name": "beer of sorghum",
+        "classification": "11.04"
+    },
+    "M_Beesx": {
+        "unit": "tonne",
+        "name": "beeswax",
+        "classification": "01.49"
+    },
+    "M_Berrs": {
+        "unit": "tonne",
+        "name": "berries nes",
+        "classification": "01.25"
+    },
+    "M_Bev_dstl": {
+        "unit": "tonne",
+        "name": "beverages, distilled alcoholic",
+        "classification": "11.04"
+    },
+    "M_Bev_ferm": {
+        "unit": "tonne",
+        "name": "rice-fermented beverages",
+        "classification": "11.04"
+    },
+    "M_Blues": {
+        "unit": "tonne",
+        "name": "blueberries",
+        "classification": "01.25"
+    },
+    "M_Bran_ bar": {
+        "unit": "tonne",
+        "name": "bran of barley",
+        "classification": "10.6"
+    },
+    "M_Bran_ buc": {
+        "unit": "tonne",
+        "name": "bran of buckwheat",
+        "classification": "10.6"
+    },
+    "M_Bran_ cer": {
+        "unit": "tonne",
+        "name": "bran of cereals nes",
+        "classification": "10.6"
+    },
+    "M_Bran_ fon": {
+        "unit": "tonne",
+        "name": "bran of fonio",
+        "classification": "10.6"
+    },
+    "M_Bran_ mai": {
+        "unit": "tonne",
+        "name": "bran of maize",
+        "classification": "10.6"
+    },
+    "M_Bran_ mil": {
+        "unit": "tonne",
+        "name": "bran of millet",
+        "classification": "10.6"
+    },
+    "M_Bran_ mix": {
+        "unit": "tonne",
+        "name": "bran of mixed grain",
+        "classification": "10.6"
+    },
+    "M_Bran_ oat": {
+        "unit": "tonne",
+        "name": "bran of oats",
+        "classification": "10.6"
+    },
+    "M_Bran_ pul": {
+        "unit": "tonne",
+        "name": "bran of pulses",
+        "classification": "10.6"
+    },
+    "M_Bran_ ric": {
+        "unit": "tonne",
+        "name": "bran of rice",
+        "classification": "10.6"
+    },
+    "M_Bran_ rye": {
+        "unit": "tonne",
+        "name": "bran of rye",
+        "classification": "10.6"
+    },
+    "M_Bran_ sor": {
+        "unit": "tonne",
+        "name": "bran of sorghum",
+        "classification": "10.6"
+    },
+    "M_Bran_ tri": {
+        "unit": "tonne",
+        "name": "bran of triticale",
+        "classification": "10.6"
+    },
+    "M_Bran_ whe": {
+        "unit": "tonne",
+        "name": "bran of wheat",
+        "classification": "10.6"
+    },
+    "M_Brazd": {
+        "unit": "tonne",
+        "name": "brazil nuts, without shell",
+        "classification": "10.39"
+    },
+    "M_Brazl": {
+        "unit": "tonne",
+        "name": "brazil nuts, in shell",
+        "classification": "01.25"
+    },
+    "M_Bread": {
+        "unit": "tonne",
+        "name": "bread",
+        "classification": "10.89"
+    },
+    "M_Broay": {
+        "unit": "tonne",
+        "name": "broad beans, dry",
+        "classification": "01.25"
+    },
+    "M_Buckt": {
+        "unit": "tonne",
+        "name": "buckwheat",
+        "classification": "01.11"
+    },
+    "M_Bufmeat": {
+        "unit": "tonne",
+        "name": "meat from buffalo (live)",
+        "classification": "01.42"
+    },
+    "M_Bufmilk": {
+        "unit": "tonne",
+        "name": "milk raw from buffalo",
+        "classification": "01.42"
+    },
+    "M_Butt_buff": {
+        "unit": "tonne",
+        "name": "butter of buffalo milk",
+        "classification": "10.51"
+    },
+    "M_Butt_cow": {
+        "unit": "tonne",
+        "name": "butter of cow milk",
+        "classification": "10.51"
+    },
+    "M_Butt_sheep": {
+        "unit": "tonne",
+        "name": "butter and ghee of sheep milk",
+        "classification": "10.51"
+    },
+    "M_Buttk": {
+        "unit": "tonne",
+        "name": "buttermilk, curdled milk, acidified milk",
+        "classification": "10.51"
+    },
+    "M_Butts": {
+        "unit": "tonne",
+        "name": "butter of karite nuts",
+        "classification": "10.51"
+    },
+    "M_CHAR": {
+        "unit": "tonne",
+        "name": "charcoal",
+        "classification": "19.1"
+    },
+    "M_CHEM": {
+        "unit": "tonne",
+        "name": "chemicals nec",
+        "classification": "20.59"
+    },
+    "M_CHMF": {
+        "unit": "tonne",
+        "name": "chemical and fertilizer minerals",
+        "classification": "08.91"
+    },
+    "M_CHP": {
+        "unit": "TJ",
+        "name": "heat from combined heat and power, global mix",
+        "classification": "35.3"
+    },
+    "M_CMNT": {
+        "unit": "tonne",
+        "name": "cement, lime and plaster",
+        "classification": "23.5"
+    },
+    "M_COAL": {
+        "unit": "tonne",
+        "name": "coal",
+        "classification": "05.2"
+    },
+    "M_COIL": {
+        "unit": "tonne",
+        "name": "crude petroleum extraction",
+        "classification": "06.1"
+    },
+    "M_COKC": {
+        "unit": "tonne",
+        "name": "coking coal",
+        "classification": "05.2"
+    },
+    "M_COKE": {
+        "unit": "tonne",
+        "name": "coke oven coke",
+        "classification": "19.1"
+    },
+    "M_COMP": {
+        "unit": "MEUR",
+        "name": "computer and related services",
+        "classification": 62
+    },
+    "M_CONS": {
+        "unit": "MEUR",
+        "name": "construction work",
+        "classification": 41
+    },
+    "M_CONW": {
+        "unit": "tonne",
+        "name": "recycling of construction waste",
+        "classification": "38.32"
+    },
+    "M_COOG": {
+        "unit": "tonne",
+        "name": "coke oven gas",
+        "classification": "19.1"
+    },
+    "M_COPO": {
+        "unit": "tonne",
+        "name": "copper ores and concentrates",
+        "classification": "07.29"
+    },
+    "M_COPP": {
+        "unit": "tonne",
+        "name": "copper products",
+        "classification": "24.44"
+    },
+    "M_COPW": {
+        "unit": "tonne",
+        "name": "recycling of copper",
+        "classification": "24.44"
+    },
+    "M_COTA": {
+        "unit": "tonne",
+        "name": "coal tar",
+        "classification": "19.1"
+    },
+    "M_CO_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of construction waste",
+        "classification": "38.21"
+    },
+    "M_CO_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of construction waste",
+        "classification": "38.21"
+    },
+    "M_CO_LAND": {
+        "unit": "tonne",
+        "name": "landfill of construction waste",
+        "classification": "38.21"
+    },
+    "M_CO_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of construction waste",
+        "classification": "38.21"
+    },
+    "M_CRMC": {
+        "unit": "tonne",
+        "name": "ceramic goods",
+        "classification": "23.4"
+    },
+    "M_CU_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of copper",
+        "classification": "38.21"
+    },
+    "M_CU_LAND": {
+        "unit": "tonne",
+        "name": "landfill of copper",
+        "classification": "38.21"
+    },
+    "M_Cabbs": {
+        "unit": "tonne",
+        "name": "cabbages",
+        "classification": "01.13"
+    },
+    "M_Cammilk": {
+        "unit": "tonne",
+        "name": "milk raw from camel",
+        "classification": "01.42"
+    },
+    "M_Canad": {
+        "unit": "tonne",
+        "name": "canary seed",
+        "classification": "01.11"
+    },
+    "M_Caros": {
+        "unit": "tonne",
+        "name": "carobs",
+        "classification": "01.13"
+    },
+    "M_Carrs": {
+        "unit": "tonne",
+        "name": "carrot",
+        "classification": "01.13"
+    },
+    "M_Casen": {
+        "unit": "tonne",
+        "name": "casein",
+        "classification": "10.51"
+    },
+    "M_Cashd": {
+        "unit": "tonne",
+        "name": "cashew nuts, without shell",
+        "classification": "10.39"
+    },
+    "M_Cashe": {
+        "unit": "tonne",
+        "name": "cashewapple",
+        "classification": "01.22"
+    },
+    "M_Cashl": {
+        "unit": "tonne",
+        "name": "cashew nuts, in shell",
+        "classification": "01.25"
+    },
+    "M_Cassa": {
+        "unit": "tonne",
+        "name": "cassava",
+        "classification": "01.13"
+    },
+    "M_Cassd": {
+        "unit": "tonne",
+        "name": "cassava, dried",
+        "classification": "10.39"
+    },
+    "M_Casss": {
+        "unit": "tonne",
+        "name": "cassava leaves",
+        "classification": "01.13"
+    },
+    "M_Castd": {
+        "unit": "tonne",
+        "name": "castor beans",
+        "classification": "01.11"
+    },
+    "M_Catmeat": {
+        "unit": "tonne",
+        "name": "meat from cattle (live)",
+        "classification": "01.41"
+    },
+    "M_Catmilk": {
+        "unit": "tonne",
+        "name": "milk raw from cow",
+        "classification": "01.41"
+    },
+    "M_Cauli": {
+        "unit": "tonne",
+        "name": "cauliflowers and broccoli",
+        "classification": "01.13"
+    },
+    "M_Cer_brkf": {
+        "unit": "tonne",
+        "name": "breakfast cereals",
+        "classification": "10.89"
+    },
+    "M_Cer_prep": {
+        "unit": "tonne",
+        "name": "cereal preparations",
+        "classification": "10.89"
+    },
+    "M_Ceres": {
+        "unit": "tonne",
+        "name": "cereals, nes",
+        "classification": "01.11"
+    },
+    "M_Chee_buff": {
+        "unit": "tonne",
+        "name": "cheese of buffalo milk",
+        "classification": "10.51"
+    },
+    "M_Chee_cow_sk": {
+        "unit": "tonne",
+        "name": "cheese from skimmed cow milk",
+        "classification": "10.51"
+    },
+    "M_Chee_cow_wh": {
+        "unit": "tonne",
+        "name": "cheese from whole cow milk",
+        "classification": "10.51"
+    },
+    "M_Chee_goat": {
+        "unit": "tonne",
+        "name": "cheese of goat milk",
+        "classification": "10.51"
+    },
+    "M_Chee_proc": {
+        "unit": "tonne",
+        "name": "processed cheese",
+        "classification": "10.51"
+    },
+    "M_Chee_sheep": {
+        "unit": "tonne",
+        "name": "cheese of sheep milk",
+        "classification": "10.51"
+    },
+    "M_Cherr": {
+        "unit": "tonne",
+        "name": "sour cherries",
+        "classification": "01.24"
+    },
+    "M_Chers": {
+        "unit": "tonne",
+        "name": "cherries",
+        "classification": "01.24"
+    },
+    "M_Chest": {
+        "unit": "tonne",
+        "name": "chestnuts",
+        "classification": "01.25"
+    },
+    "M_Chick": {
+        "unit": "tonne",
+        "name": "chick-peas, dry",
+        "classification": "01.11"
+    },
+    "M_Chics": {
+        "unit": "tonne",
+        "name": "chicory roots",
+        "classification": "01.13"
+    },
+    "M_Chiln": {
+        "unit": "tonne",
+        "name": "chillies and peppers (green)",
+        "classification": "01.28"
+    },
+    "M_Chily": {
+        "unit": "tonne",
+        "name": "pimento",
+        "classification": "01.28"
+    },
+    "M_Chocs": {
+        "unit": "tonne",
+        "name": "chocolate products nes",
+        "classification": "10.82"
+    },
+    "M_Cider": {
+        "unit": "tonne",
+        "name": "cider, etc.",
+        "classification": "11.04"
+    },
+    "M_Cinn": {
+        "unit": "tonne",
+        "name": "cinnamon (canella)",
+        "classification": "01.28"
+    },
+    "M_Ckcopra": {
+        "unit": "tonne",
+        "name": "cake of copra",
+        "classification": "10.41"
+    },
+    "M_Ckcotton": {
+        "unit": "tonne",
+        "name": "cake of cottonseed",
+        "classification": "10.41"
+    },
+    "M_Ckgound": {
+        "unit": "tonne",
+        "name": "cake of groundnuts",
+        "classification": "10.41"
+    },
+    "M_Ckkapok": {
+        "unit": "tonne",
+        "name": "cake of kapok",
+        "classification": "10.41"
+    },
+    "M_Cklins": {
+        "unit": "tonne",
+        "name": "cake of linseed",
+        "classification": "10.41"
+    },
+    "M_Ckmaize": {
+        "unit": "tonne",
+        "name": "cake of maize",
+        "classification": "10.41"
+    },
+    "M_Ckmust": {
+        "unit": "tonne",
+        "name": "cake of mustard seed",
+        "classification": "10.41"
+    },
+    "M_Ckpalm": {
+        "unit": "tonne",
+        "name": "cake of palm kernel",
+        "classification": "10.41"
+    },
+    "M_Ckrapes": {
+        "unit": "tonne",
+        "name": "cake of rapeseed",
+        "classification": "10.41"
+    },
+    "M_Ckriceb": {
+        "unit": "tonne",
+        "name": "cake of rice bran",
+        "classification": "10.41"
+    },
+    "M_Cksaffl": {
+        "unit": "tonne",
+        "name": "cake of safflower seed",
+        "classification": "10.41"
+    },
+    "M_Cksesam": {
+        "unit": "tonne",
+        "name": "cake of sesame seed",
+        "classification": "10.41"
+    },
+    "M_Cksoyb": {
+        "unit": "tonne",
+        "name": "cake of soybeans",
+        "classification": "10.41"
+    },
+    "M_Cksunf": {
+        "unit": "tonne",
+        "name": "cake of sunflower seed",
+        "classification": "10.41"
+    },
+    "M_Clovs": {
+        "unit": "tonne",
+        "name": "cloves",
+        "classification": "01.28"
+    },
+    "M_Coamilk": {
+        "unit": "tonne",
+        "name": "milk raw from goat",
+        "classification": "01.45"
+    },
+    "M_Cocader": {
+        "unit": "tonne",
+        "name": "cocao derivates",
+        "classification": "10.82"
+    },
+    "M_Coco_but": {
+        "unit": "tonne",
+        "name": "cocoa butter",
+        "classification": "10.82"
+    },
+    "M_Coco_husk": {
+        "unit": "tonne",
+        "name": "cocoa husks and shells",
+        "classification": "10.82"
+    },
+    "M_Coco_pas": {
+        "unit": "tonne",
+        "name": "cocoa paste",
+        "classification": "10.82"
+    },
+    "M_Coco_pow": {
+        "unit": "tonne",
+        "name": "cocoa powder and cake",
+        "classification": "10.82"
+    },
+    "M_Cocoa": {
+        "unit": "tonne",
+        "name": "cocoa beans",
+        "classification": "01.25"
+    },
+    "M_Cocod": {
+        "unit": "tonne",
+        "name": "coconuts, desiccated",
+        "classification": "10.82"
+    },
+    "M_Cocon": {
+        "unit": "tonne",
+        "name": "coconuts",
+        "classification": "01.26"
+    },
+    "M_Coff_ext": {
+        "unit": "tonne",
+        "name": "coffee extracts",
+        "classification": "10.83"
+    },
+    "M_Coff_sub": {
+        "unit": "tonne",
+        "name": "coffee substitutes",
+        "classification": "10.83"
+    },
+    "M_Coffe_roas": {
+        "unit": "tonne",
+        "name": "coffee, roasted",
+        "classification": "10.83"
+    },
+    "M_Coffn": {
+        "unit": "tonne",
+        "name": "coffee green",
+        "classification": "01.27"
+    },
+    "M_Coirr": {
+        "unit": "tonne",
+        "name": "coir",
+        "classification": "01.26"
+    },
+    "M_Copra": {
+        "unit": "tonne",
+        "name": "copra",
+        "classification": "10.41"
+    },
+    "M_Cottd": {
+        "unit": "tonne",
+        "name": "cottonseed",
+        "classification": "01.11"
+    },
+    "M_Cotton": {
+        "unit": "tonne",
+        "name": "cotton lint",
+        "classification": "01.11"
+    },
+    "M_Cowmilk": {
+        "unit": "tonne",
+        "name": "milk raw from cow, global mix",
+        "classification": "01.41"
+    },
+    "M_Cowpea": {
+        "unit": "tonne",
+        "name": "cow peas, dry",
+        "classification": "01.11"
+    },
+    "M_Crans": {
+        "unit": "tonne",
+        "name": "cranberries",
+        "classification": "01.25"
+    },
+    "M_Creah": {
+        "unit": "tonne",
+        "name": "cream, fresh",
+        "classification": "10.51"
+    },
+    "M_Cucus": {
+        "unit": "tonne",
+        "name": "cucumbers and gherkins",
+        "classification": "01.13"
+    },
+    "M_Currs": {
+        "unit": "tonne",
+        "name": "currants",
+        "classification": "01.25"
+    },
+    "M_DE_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of discarded equipment",
+        "classification": "38.21"
+    },
+    "M_DE_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of discarded equipment",
+        "classification": "38.21"
+    },
+    "M_DE_LAND": {
+        "unit": "tonne",
+        "name": "landfill of discarded equipment",
+        "classification": "38.21"
+    },
+    "M_DE_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of discarded equipment",
+        "classification": "38.21"
+    },
+    "M_DE_RECY": {
+        "unit": "tonne",
+        "name": "recycling of discarded equipment",
+        "classification": "24.43"
+    },
+    "M_DOIL": {
+        "unit": "tonne",
+        "name": "gas/diesel oil",
+        "classification": "19.2"
+    },
+    "M_DV_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of discarded vehicles",
+        "classification": "38.21"
+    },
+    "M_DV_LAND": {
+        "unit": "tonne",
+        "name": "landfill of discarded vehicles",
+        "classification": "38.21"
+    },
+    "M_DV_RECY": {
+        "unit": "tonne",
+        "name": "recycling of discarded vehicles",
+        "classification": "24.43"
+    },
+    "M_Dates": {
+        "unit": "tonne",
+        "name": "dates",
+        "classification": "01.22"
+    },
+    "M_EDUC": {
+        "unit": "MEUR",
+        "name": "education services",
+        "classification": 85
+    },
+    "M_ELMA": {
+        "unit": "tonne",
+        "name": "electrical machinery and apparatus n.e.c.",
+        "classification": "26.1"
+    },
+    "M_ETHA": {
+        "unit": "tonne",
+        "name": "ethane",
+        "classification": "19.2"
+    },
+    "M_Eggpl": {
+        "unit": "tonne",
+        "name": "eggplants",
+        "classification": "01.13"
+    },
+    "M_Eggsl": {
+        "unit": "tonne",
+        "name": "hen eggs",
+        "classification": "01.47"
+    },
+    "M_FABM": {
+        "unit": "tonne",
+        "name": "fabricated metal products, except machinery and equipment",
+        "classification": 25
+    },
+    "M_FAUX": {
+        "unit": "MEUR",
+        "name": "services auxiliary to financial intermediation",
+        "classification": 66
+    },
+    "M_FINS": {
+        "unit": "MEUR",
+        "name": "insurance and pension funding services, except compulsory social security services",
+        "classification": 65
+    },
+    "M_FINT": {
+        "unit": "MEUR",
+        "name": "financial intermediation services, except insurance and pension funding services",
+        "classification": 64
+    },
+    "M_FISH": {
+        "unit": "tonne",
+        "name": "fish and other fishing products; services incidental of fishing",
+        "classification": "03.1"
+    },
+    "M_FOIL": {
+        "unit": "tonne",
+        "name": "heavy fuel oil",
+        "classification": "19.2"
+    },
+    "M_FOOD_w_water": {
+        "unit": "tonne",
+        "name": "waste water treatment of food",
+        "classification": 37
+    },
+    "M_FORE": {
+        "unit": "tonne",
+        "name": "products of forestry, logging and related services",
+        "classification": 2
+    },
+    "M_FORE_comb": {
+        "unit": "tonne",
+        "name": "M_FORE_comb",
+        "classification": ""
+    },
+    "M_FO_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of food",
+        "classification": "38.21"
+    },
+    "M_FO_RECY": {
+        "unit": "tonne",
+        "name": "recycling of food",
+        "classification": "38.11"
+    },
+    "M_FSHP": {
+        "unit": "tonne",
+        "name": "fish products",
+        "classification": "10.2"
+    },
+    "M_FURN": {
+        "unit": "tonne",
+        "name": "furniture; other manufactured goods n.e.c.",
+        "classification": "31-32"
+    },
+    "M_F_aqua": {
+        "unit": "tonne",
+        "name": "fish from aquaculture",
+        "classification": "03.2"
+    },
+    "M_F_capture": {
+        "unit": "tonne",
+        "name": "fish from capture",
+        "classification": "03.1"
+    },
+    "M_Fat_ac": {
+        "unit": "tonne",
+        "name": "fatty acids",
+        "classification": "10.11"
+    },
+    "M_Fat_buff": {
+        "unit": "tonne",
+        "name": "fat of buffalo",
+        "classification": "10.11"
+    },
+    "M_Fat_cam": {
+        "unit": "tonne",
+        "name": "fat of camels",
+        "classification": "10.11"
+    },
+    "M_Fat_cow": {
+        "unit": "tonne",
+        "name": "fat of cattle",
+        "classification": "10.11"
+    },
+    "M_Fat_goat": {
+        "unit": "tonne",
+        "name": "fat of goats",
+        "classification": "10.11"
+    },
+    "M_Fat_live": {
+        "unit": "tonne",
+        "name": "fatty liver preparations",
+        "classification": "10.11"
+    },
+    "M_Fat_nes": {
+        "unit": "tonne",
+        "name": "fat preparations nes",
+        "classification": "10.11"
+    },
+    "M_Fat_othe": {
+        "unit": "tonne",
+        "name": "fat of other camelids",
+        "classification": "10.11"
+    },
+    "M_Fat_pig": {
+        "unit": "tonne",
+        "name": "fat of pigs",
+        "classification": "10.11"
+    },
+    "M_Fat_poul": {
+        "unit": "tonne",
+        "name": "fat of poultry",
+        "classification": "10.12"
+    },
+    "M_Fat_poul_ren": {
+        "unit": "tonne",
+        "name": "fat of poultry, rendered",
+        "classification": "10.12"
+    },
+    "M_Fat_sheep": {
+        "unit": "tonne",
+        "name": "fat of sheep",
+        "classification": "10.11"
+    },
+    "M_Fat_sub": {
+        "unit": "tonne",
+        "name": "residues of fatty substances",
+        "classification": "10.11"
+    },
+    "M_Figsd": {
+        "unit": "tonne",
+        "name": "figs, dried",
+        "classification": "10.39"
+    },
+    "M_Figss": {
+        "unit": "tonne",
+        "name": "figs",
+        "classification": "01.22"
+    },
+    "M_Flaxw": {
+        "unit": "tonne",
+        "name": "flax fibre and tow",
+        "classification": "01.16"
+    },
+    "M_Flour_barl": {
+        "unit": "tonne",
+        "name": "barley flour and grits",
+        "classification": "10.6"
+    },
+    "M_Flour_buck": {
+        "unit": "tonne",
+        "name": "flour of buckwheat",
+        "classification": "10.6"
+    },
+    "M_Flour_cass": {
+        "unit": "tonne",
+        "name": "flour of cassava",
+        "classification": "10.6"
+    },
+    "M_Flour_foni": {
+        "unit": "tonne",
+        "name": "flour of fonio",
+        "classification": "10.6"
+    },
+    "M_Flour_frui": {
+        "unit": "tonne",
+        "name": "flour of fruits",
+        "classification": "10.6"
+    },
+    "M_Flour_maiz": {
+        "unit": "tonne",
+        "name": "flour of maize",
+        "classification": "10.6"
+    },
+    "M_Flour_mill": {
+        "unit": "tonne",
+        "name": "flour of millet",
+        "classification": "10.6"
+    },
+    "M_Flour_mixe": {
+        "unit": "tonne",
+        "name": "flour of mixed grain",
+        "classification": "10.6"
+    },
+    "M_Flour_must": {
+        "unit": "tonne",
+        "name": "flour of mustard seed",
+        "classification": "10.6"
+    },
+    "M_Flour_nes": {
+        "unit": "tonne",
+        "name": "food preparations nes",
+        "classification": "10.89"
+    },
+    "M_Flour_pota": {
+        "unit": "tonne",
+        "name": "flour of potatoes",
+        "classification": "10.6"
+    },
+    "M_Flour_puls": {
+        "unit": "tonne",
+        "name": "flour of pulses",
+        "classification": "10.6"
+    },
+    "M_Flour_rice": {
+        "unit": "tonne",
+        "name": "flour of rice",
+        "classification": "10.6"
+    },
+    "M_Flour_root": {
+        "unit": "tonne",
+        "name": "flour of roots and tubers nes",
+        "classification": "10.6"
+    },
+    "M_Flour_rye": {
+        "unit": "tonne",
+        "name": "flour of rye",
+        "classification": "10.6"
+    },
+    "M_Flour_sorg": {
+        "unit": "tonne",
+        "name": "flour of sorghum",
+        "classification": "10.6"
+    },
+    "M_Flour_trit": {
+        "unit": "tonne",
+        "name": "flour of triticale",
+        "classification": "10.6"
+    },
+    "M_Flour_whea": {
+        "unit": "tonne",
+        "name": "flour of wheat",
+        "classification": "10.6"
+    },
+    "M_Fonio": {
+        "unit": "tonne",
+        "name": "fonio",
+        "classification": "01.29"
+    },
+    "M_Frozfrui": {
+        "unit": "tonne",
+        "name": "frozen fruit",
+        "classification": "10.3"
+    },
+    "M_Frozvege": {
+        "unit": "tonne",
+        "name": "frozen vegetables",
+        "classification": "10.3"
+    },
+    "M_Frucr": {
+        "unit": "tonne",
+        "name": "other fructose and syrup",
+        "classification": "10.81"
+    },
+    "M_Frudry": {
+        "unit": "tonne",
+        "name": "fruit, dried nes",
+        "classification": "10.32"
+    },
+    "M_Fruhom": {
+        "unit": "tonne",
+        "name": "homogenized cooked fruit, prepared",
+        "classification": "10.32"
+    },
+    "M_Fruprep": {
+        "unit": "tonne",
+        "name": "fruit, prepared nes",
+        "classification": "10.32"
+    },
+    "M_GARM": {
+        "unit": "tonne",
+        "name": "wearing apparel; furs",
+        "classification": "13.2"
+    },
+    "M_GASD": {
+        "unit": "MEUR",
+        "name": "distribution services of gaseous fuels through mains (excl the gas)",
+        "classification": "35.2"
+    },
+    "M_GASE": {
+        "unit": "tonne",
+        "name": "natural gas extraction",
+        "classification": "06.2"
+    },
+    "M_GASL": {
+        "unit": "tonne",
+        "name": "natural gas liquids",
+        "classification": "06.2"
+    },
+    "M_GCOK": {
+        "unit": "tonne",
+        "name": "gas coke",
+        "classification": "35.21"
+    },
+    "M_GJET": {
+        "unit": "tonne",
+        "name": "gasoline type jet fuel",
+        "classification": "19.2"
+    },
+    "M_GLAS": {
+        "unit": "tonne",
+        "name": "glass and glass products",
+        "classification": "38.32"
+    },
+    "M_GLAS_reuse": {
+        "unit": "tonne",
+        "name": "collection of glass bottles service",
+        "classification": "38.11"
+    },
+    "M_GLAW": {
+        "unit": "tonne",
+        "name": "recycling of glass",
+        "classification": "23.1"
+    },
+    "M_GL_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of glass",
+        "classification": "38.21"
+    },
+    "M_GL_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of glass",
+        "classification": "38.21"
+    },
+    "M_GL_LAND": {
+        "unit": "tonne",
+        "name": "landfill of glass",
+        "classification": "38.21"
+    },
+    "M_Garlc": {
+        "unit": "tonne",
+        "name": "garlic",
+        "classification": "01.13"
+    },
+    "M_Germe": {
+        "unit": "tonne",
+        "name": "germ of maize",
+        "classification": "01.19"
+    },
+    "M_Germt": {
+        "unit": "tonne",
+        "name": "germ of wheat",
+        "classification": "01.11"
+    },
+    "M_Ghee_buff": {
+        "unit": "tonne",
+        "name": "ghee, from buffalo milk",
+        "classification": "10.51"
+    },
+    "M_Ghee_cow": {
+        "unit": "tonne",
+        "name": "ghee from cow milk",
+        "classification": "10.51"
+    },
+    "M_Gingr": {
+        "unit": "tonne",
+        "name": "ginger",
+        "classification": "01.28"
+    },
+    "M_Gluce": {
+        "unit": "tonne",
+        "name": "glucose and dextrose",
+        "classification": "10.81"
+    },
+    "M_Gluten_mais": {
+        "unit": "tonne",
+        "name": "maize gluten",
+        "classification": "10.6"
+    },
+    "M_Gluten_rice": {
+        "unit": "tonne",
+        "name": "rice, gluten",
+        "classification": "10.6"
+    },
+    "M_Gluten_wht": {
+        "unit": "tonne",
+        "name": "wheat gluten",
+        "classification": "10.6"
+    },
+    "M_Goameat": {
+        "unit": "tonne",
+        "name": "meat from goat (live)",
+        "classification": "01.45"
+    },
+    "M_Goamilk": {
+        "unit": "tonne",
+        "name": "M_Goamilk",
+        "classification": ""
+    },
+    "M_Gooss": {
+        "unit": "tonne",
+        "name": "gooseberries",
+        "classification": "01.25"
+    },
+    "M_Graid": {
+        "unit": "tonne",
+        "name": "mixed grain",
+        "classification": "01.11"
+    },
+    "M_Grapf": {
+        "unit": "tonne",
+        "name": "grapefruit and pomelo",
+        "classification": "01.21"
+    },
+    "M_Graps": {
+        "unit": "tonne",
+        "name": "grapes",
+        "classification": "01.21"
+    },
+    "M_Grapt": {
+        "unit": "tonne",
+        "name": "must of grape",
+        "classification": "11.02"
+    },
+    "M_Grou_prep": {
+        "unit": "tonne",
+        "name": "prepared groundnuts",
+        "classification": "10.32"
+    },
+    "M_Grou_shld": {
+        "unit": "tonne",
+        "name": "groundnuts, without shell",
+        "classification": "10.39"
+    },
+    "M_Groul": {
+        "unit": "tonne",
+        "name": "groundnuts, in shell",
+        "classification": "01.11"
+    },
+    "M_HA_ENER": {
+        "unit": "tonne",
+        "name": "M_HA_ENER",
+        "classification": ""
+    },
+    "M_HA_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of hazardous waste",
+        "classification": "38.21"
+    },
+    "M_HA_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of hazardous waste",
+        "classification": "38.21"
+    },
+    "M_HA_LAND": {
+        "unit": "tonne",
+        "name": "landfill of hazardous waste",
+        "classification": "38.21"
+    },
+    "M_HA_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of hazardous waste",
+        "classification": "38.21"
+    },
+    "M_HA_RECY": {
+        "unit": "tonne",
+        "name": "recycling of hazardous waste",
+        "classification": "38.32"
+    },
+    "M_HEAL": {
+        "unit": "MEUR",
+        "name": "health and social work services",
+        "classification": 86
+    },
+    "M_HORE": {
+        "unit": "MEUR",
+        "name": "hotel and restaurant services",
+        "classification": 55
+    },
+    "M_HWAT": {
+        "unit": "TJ",
+        "name": "heat (steam and hot water) from heat production",
+        "classification": "35.3"
+    },
+    "M_Haze_shld": {
+        "unit": "tonne",
+        "name": "hazelnuts, without shell",
+        "classification": "10.39"
+    },
+    "M_Hazel": {
+        "unit": "tonne",
+        "name": "hazelnuts, in shell",
+        "classification": "01.25"
+    },
+    "M_Hemp": {
+        "unit": "tonne",
+        "name": "hemp fibre and tow",
+        "classification": "01.19"
+    },
+    "M_Hempd": {
+        "unit": "tonne",
+        "name": "hempseed",
+        "classification": "01.19"
+    },
+    "M_Hide_buff": {
+        "unit": "tonne",
+        "name": "buffalo hides, fresh",
+        "classification": "10.11"
+    },
+    "M_Hide_cow": {
+        "unit": "tonne",
+        "name": "cattle hides, fresh",
+        "classification": "10.11"
+    },
+    "M_Honel": {
+        "unit": "tonne",
+        "name": "honey",
+        "classification": "01.49"
+    },
+    "M_Hops": {
+        "unit": "tonne",
+        "name": "hops",
+        "classification": "01.28"
+    },
+    "M_INCF": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of food",
+        "classification": "38.21"
+    },
+    "M_INCF_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of food",
+        "classification": "38.21"
+    },
+    "M_INCL": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of plastic/rubber",
+        "classification": "38.21"
+    },
+    "M_INCL_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of plastic and rubber",
+        "classification": "38.21"
+    },
+    "M_INCP": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of paper",
+        "classification": "38.21"
+    },
+    "M_INCP_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of paper",
+        "classification": "38.21"
+    },
+    "M_INCW": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of wood",
+        "classification": "38.21"
+    },
+    "M_INCW_no_recovery": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of wood waste",
+        "classification": "38.21"
+    },
+    "M_IRON": {
+        "unit": "tonne",
+        "name": "iron ores",
+        "classification": "07.1"
+    },
+    "M_Ice e": {
+        "unit": "tonne",
+        "name": "ice cream and edible ice",
+        "classification": "10.51"
+    },
+    "M_Isoge": {
+        "unit": "tonne",
+        "name": "isoglucose",
+        "classification": "10.81"
+    },
+    "M_Jojod": {
+        "unit": "tonne",
+        "name": "jojoba seeds",
+        "classification": "01.19"
+    },
+    "M_Jufruveg": {
+        "unit": "tonne",
+        "name": "juice and fruit and veg prepared",
+        "classification": "10.32"
+    },
+    "M_Juice_appl": {
+        "unit": "tonne",
+        "name": "apple juice",
+        "classification": "10.32"
+    },
+    "M_Juice_appl_con": {
+        "unit": "tonne",
+        "name": "apple juice, concentrated",
+        "classification": "10.32"
+    },
+    "M_Juice_frui": {
+        "unit": "tonne",
+        "name": "juice of fruits nes",
+        "classification": "10.32"
+    },
+    "M_Juice_grapef": {
+        "unit": "tonne",
+        "name": "grapefruit juice, concentrated",
+        "classification": "10.32"
+    },
+    "M_Juice_grapes": {
+        "unit": "tonne",
+        "name": "juice of grape",
+        "classification": "10.32"
+    },
+    "M_Juice_grapfrt": {
+        "unit": "tonne",
+        "name": "juice of grapefruit",
+        "classification": "10.32"
+    },
+    "M_Juice_lemo": {
+        "unit": "tonne",
+        "name": "juice of lemon",
+        "classification": "10.32"
+    },
+    "M_Juice_lemo_con": {
+        "unit": "tonne",
+        "name": "lemon juice, concentrated",
+        "classification": "10.32"
+    },
+    "M_Juice_mang": {
+        "unit": "tonne",
+        "name": "juice of mango",
+        "classification": "10.32"
+    },
+    "M_Juice_oran": {
+        "unit": "tonne",
+        "name": "juice of orange",
+        "classification": "10.32"
+    },
+    "M_Juice_oran_con": {
+        "unit": "tonne",
+        "name": "orange juice, concentrated",
+        "classification": "10.32"
+    },
+    "M_Juice_pine": {
+        "unit": "tonne",
+        "name": "juice of pineapples",
+        "classification": "10.32"
+    },
+    "M_Juice_pine_con": {
+        "unit": "tonne",
+        "name": "juice of pineapples, concentrated",
+        "classification": "10.32"
+    },
+    "M_Juice_tang": {
+        "unit": "tonne",
+        "name": "juice of tangerine, mandarin and clementin",
+        "classification": "10.32"
+    },
+    "M_Juice_toma": {
+        "unit": "tonne",
+        "name": "juice of tomatoes",
+        "classification": "10.32"
+    },
+    "M_Juice_vege": {
+        "unit": "tonne",
+        "name": "juice of vegetables nes",
+        "classification": "10.32"
+    },
+    "M_Jute": {
+        "unit": "tonne",
+        "name": "jute",
+        "classification": "01.16"
+    },
+    "M_K2Ofert": {
+        "unit": "tonne",
+        "name": "fertiliser nutrient, K2O",
+        "classification": "20.15"
+    },
+    "M_KERO": {
+        "unit": "tonne",
+        "name": "kerosene",
+        "classification": "19.2"
+    },
+    "M_KJET": {
+        "unit": "tonne",
+        "name": "kerosene type jet fuel",
+        "classification": "19.2"
+    },
+    "M_Kapod": {
+        "unit": "tonne",
+        "name": "kapokseed, without shell",
+        "classification": "10.39"
+    },
+    "M_Kapol": {
+        "unit": "tonne",
+        "name": "kapokseed, in shell",
+        "classification": "01.29"
+    },
+    "M_Kapot": {
+        "unit": "tonne",
+        "name": "kapok fruit",
+        "classification": "01.29"
+    },
+    "M_Kari": {
+        "unit": "tonne",
+        "name": "karite nuts (sheanuts)",
+        "classification": "01.29"
+    },
+    "M_Kfert": {
+        "unit": "tonne",
+        "name": "K fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_Kiwi": {
+        "unit": "tonne",
+        "name": "kiwi fruit",
+        "classification": "01.25"
+    },
+    "M_Kola": {
+        "unit": "tonne",
+        "name": "kolanuts",
+        "classification": "01.29"
+    },
+    "M_LANF": {
+        "unit": "tonne",
+        "name": "landfill of food",
+        "classification": "38.21"
+    },
+    "M_LANL": {
+        "unit": "tonne",
+        "name": "landfill of plastic and rubber",
+        "classification": "38.21"
+    },
+    "M_LANP": {
+        "unit": "tonne",
+        "name": "landfill of paper",
+        "classification": "38.21"
+    },
+    "M_LANW": {
+        "unit": "tonne",
+        "name": "landfill of wood",
+        "classification": "38.21"
+    },
+    "M_LETH": {
+        "unit": "tonne",
+        "name": "leather and leather products",
+        "classification": 15
+    },
+    "M_LIBC": {
+        "unit": "tonne",
+        "name": "lignite/brown coal",
+        "classification": "05.2"
+    },
+    "M_LPGA": {
+        "unit": "tonne",
+        "name": "liquefied petroleum gases (lpg)",
+        "classification": "19.2"
+    },
+    "M_LUBR": {
+        "unit": "tonne",
+        "name": "lubricants",
+        "classification": "19.2"
+    },
+    "M_LZTO": {
+        "unit": "tonne",
+        "name": "lead, zinc and tin ores and concentrates",
+        "classification": "07.29"
+    },
+    "M_LZTP": {
+        "unit": "tonne",
+        "name": "lead, zinc and tin and products thereof",
+        "classification": "24.43"
+    },
+    "M_LZTW": {
+        "unit": "tonne",
+        "name": "recycling of lead, zinc and tin",
+        "classification": "24.43"
+    },
+    "M_LZT_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of lead, zinc and tin",
+        "classification": "38.21"
+    },
+    "M_LZT_LAND": {
+        "unit": "tonne",
+        "name": "landfill of lead, zinc and tin",
+        "classification": "38.21"
+    },
+    "M_Lacte": {
+        "unit": "tonne",
+        "name": "lactose",
+        "classification": "10.51"
+    },
+    "M_Lard": {
+        "unit": "tonne",
+        "name": "lard",
+        "classification": "10.11"
+    },
+    "M_Lardl": {
+        "unit": "tonne",
+        "name": "lard stearine and lard oil",
+        "classification": "10.11"
+    },
+    "M_Leeks": {
+        "unit": "tonne",
+        "name": "leeks and other alliaceous vegetables",
+        "classification": "01.13"
+    },
+    "M_Lemos": {
+        "unit": "tonne",
+        "name": "lemons and limes",
+        "classification": "01.13"
+    },
+    "M_Lents": {
+        "unit": "tonne",
+        "name": "lentils, dry",
+        "classification": "01.11"
+    },
+    "M_Letty": {
+        "unit": "tonne",
+        "name": "lettuce and chicory",
+        "classification": "01.13"
+    },
+    "M_Linsd": {
+        "unit": "tonne",
+        "name": "linseed",
+        "classification": "01.11"
+    },
+    "M_Lupis": {
+        "unit": "tonne",
+        "name": "lupins",
+        "classification": "01.11"
+    },
+    "M_MACH": {
+        "unit": "tonne",
+        "name": "machinery and equipment n.e.c.",
+        "classification": 28
+    },
+    "M_MANC": {
+        "unit": "tonne",
+        "name": "land application of manure",
+        "classification": "38.21"
+    },
+    "M_MARE": {
+        "unit": "MEUR",
+        "name": "renting services of machinery and equipment without operator and of personal and household goods",
+        "classification": 77
+    },
+    "M_MA_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of manure",
+        "classification": "38.21"
+    },
+    "M_MA_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of manure",
+        "classification": "38.21"
+    },
+    "M_MA_LAND": {
+        "unit": "tonne",
+        "name": "M_MA_LAND",
+        "classification": ""
+    },
+    "M_MA_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of manure",
+        "classification": "38.21"
+    },
+    "M_MA_RECY": {
+        "unit": "tonne",
+        "name": "M_MA_RECY",
+        "classification": ""
+    },
+    "M_MBFG": {
+        "unit": "tonne",
+        "name": "blast furnace gas",
+        "classification": "24.1"
+    },
+    "M_MBIO": {
+        "unit": "tonne",
+        "name": "biogas",
+        "classification": "38.21"
+    },
+    "M_MDIA": {
+        "unit": "tonne",
+        "name": "printed matter and recorded media",
+        "classification": 18
+    },
+    "M_MEIN": {
+        "unit": "tonne",
+        "name": "medical, precision and optical instruments, watches and clocks",
+        "classification": "26.5"
+    },
+    "M_METC": {
+        "unit": "tonne",
+        "name": "foundry work services",
+        "classification": "24.5"
+    },
+    "M_MGSL": {
+        "unit": "tonne",
+        "name": "motor gasoline",
+        "classification": "19.2"
+    },
+    "M_MGWG": {
+        "unit": "tonne",
+        "name": "gas works gas (incl the gas)",
+        "classification": "35.21"
+    },
+    "M_MM_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of mix metals",
+        "classification": "38.21"
+    },
+    "M_MM_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of mix metals",
+        "classification": "38.21"
+    },
+    "M_MM_LAND": {
+        "unit": "tonne",
+        "name": "landfill of mix metals",
+        "classification": "38.21"
+    },
+    "M_MM_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of mix metals",
+        "classification": "38.21"
+    },
+    "M_MM_RECY": {
+        "unit": "tonne",
+        "name": "recycling of mix metals",
+        "classification": 24
+    },
+    "M_MNF_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "M_MNF_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "M_MNF_LAND": {
+        "unit": "tonne",
+        "name": "landfill of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "M_MNF_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of mix of non-ferrous metals",
+        "classification": "38.21"
+    },
+    "M_MNF_RECY": {
+        "unit": "tonne",
+        "name": "recycling of mix of non-ferrous metals",
+        "classification": "24.42"
+    },
+    "M_MOSG": {
+        "unit": "tonne",
+        "name": "oxygen steel furnace gas",
+        "classification": "24.1"
+    },
+    "M_MOTO": {
+        "unit": "MEUR",
+        "name": "other vehicles",
+        "classification": "30.99"
+    },
+    "M_Macai": {
+        "unit": "tonne",
+        "name": "macaroni",
+        "classification": "10.73"
+    },
+    "M_Maize": {
+        "unit": "tonne",
+        "name": "maize",
+        "classification": "01.11"
+    },
+    "M_Maizn": {
+        "unit": "tonne",
+        "name": "green corn (maize)",
+        "classification": "01.11"
+    },
+    "M_Malt_ext": {
+        "unit": "tonne",
+        "name": "malt extract",
+        "classification": "10.6"
+    },
+    "M_Maltt": {
+        "unit": "tonne",
+        "name": "malt",
+        "classification": "10.6"
+    },
+    "M_Mangp": {
+        "unit": "tonne",
+        "name": "mango pulp",
+        "classification": "10.32"
+    },
+    "M_Mangs": {
+        "unit": "tonne",
+        "name": "mangoes",
+        "classification": "01.22"
+    },
+    "M_Manila": {
+        "unit": "tonne",
+        "name": "abaca manila hemp",
+        "classification": "01.16"
+    },
+    "M_Margd": {
+        "unit": "tonne",
+        "name": "liquid margarine",
+        "classification": "10.41"
+    },
+    "M_Margt": {
+        "unit": "tonne",
+        "name": "margarine and shortening",
+        "classification": "10.41"
+    },
+    "M_Mate": {
+        "unit": "tonne",
+        "name": "mate",
+        "classification": "01.29"
+    },
+    "M_Meat_ass": {
+        "unit": "tonne",
+        "name": "meat of asses",
+        "classification": "10.11"
+    },
+    "M_Meat_beef": {
+        "unit": "tonne",
+        "name": "beef meat as carcass",
+        "classification": "10.11"
+    },
+    "M_Meat_buff": {
+        "unit": "tonne",
+        "name": "buffalo meat as carcass, global mix",
+        "classification": "10.11"
+    },
+    "M_Meat_chic": {
+        "unit": "tonne",
+        "name": "chicken meat",
+        "classification": "10.12"
+    },
+    "M_Meat_drie": {
+        "unit": "tonne",
+        "name": "meat, dried nes",
+        "classification": "10.11"
+    },
+    "M_Meat_duck": {
+        "unit": "tonne",
+        "name": "duck meat",
+        "classification": "10.12"
+    },
+    "M_Meat_extr": {
+        "unit": "tonne",
+        "name": "meat extracts",
+        "classification": "10.11"
+    },
+    "M_Meat_game": {
+        "unit": "tonne",
+        "name": "game meat",
+        "classification": "10.11"
+    },
+    "M_Meat_goat": {
+        "unit": "tonne",
+        "name": "goat meat as carcass",
+        "classification": "10.11"
+    },
+    "M_Meat_goos": {
+        "unit": "tonne",
+        "name": "goose meat",
+        "classification": "10.11"
+    },
+    "M_Meat_homo": {
+        "unit": "tonne",
+        "name": "homogenized meat preparations",
+        "classification": "10.11"
+    },
+    "M_Meat_hors": {
+        "unit": "tonne",
+        "name": "horse meat",
+        "classification": "10.11"
+    },
+    "M_Meat_mule": {
+        "unit": "tonne",
+        "name": "meat of mules",
+        "classification": "10.11"
+    },
+    "M_Meat_nes": {
+        "unit": "tonne",
+        "name": "meat, prepared nes",
+        "classification": "10.11"
+    },
+    "M_Meat_ocAM": {
+        "unit": "tonne",
+        "name": "meat of other domestic camelids",
+        "classification": "10.11"
+    },
+    "M_Meat_othe": {
+        "unit": "tonne",
+        "name": "meat of other domestic rodents",
+        "classification": "10.11"
+    },
+    "M_Meat_pig": {
+        "unit": "tonne",
+        "name": "pig meat as carcass",
+        "classification": "10.11"
+    },
+    "M_Meat_prnes": {
+        "unit": "tonne",
+        "name": "meat nes",
+        "classification": "10.11"
+    },
+    "M_Meat_rabb": {
+        "unit": "tonne",
+        "name": "rabbit meat",
+        "classification": "10.11"
+    },
+    "M_Meat_shee": {
+        "unit": "tonne",
+        "name": "meat of sheep",
+        "classification": "10.11"
+    },
+    "M_Meat_turk": {
+        "unit": "tonne",
+        "name": "turkey meat",
+        "classification": "10.12"
+    },
+    "M_Melon": {
+        "unit": "tonne",
+        "name": "melons, cantaloupes",
+        "classification": "01.13"
+    },
+    "M_Melonse": {
+        "unit": "tonne",
+        "name": "melonseed",
+        "classification": "01.13"
+    },
+    "M_Milk_dry ": {
+        "unit": "tonne",
+        "name": "milk, dry buttermilk",
+        "classification": "10.51"
+    },
+    "M_Milk_prod": {
+        "unit": "tonne",
+        "name": "products of natural milk constitue, nes",
+        "classification": "10.51"
+    },
+    "M_Milk_skim_buff": {
+        "unit": "tonne",
+        "name": "skim milk of buffalo",
+        "classification": "10.51"
+    },
+    "M_Milk_skim_cow": {
+        "unit": "tonne",
+        "name": "skim milk of cows",
+        "classification": "10.51"
+    },
+    "M_Milk_skim_dried": {
+        "unit": "tonne",
+        "name": "dry skim cow milk",
+        "classification": "10.51"
+    },
+    "M_Milk_skim_she": {
+        "unit": "tonne",
+        "name": "skim sheep milk",
+        "classification": "10.51"
+    },
+    "M_Millt": {
+        "unit": "tonne",
+        "name": "millet",
+        "classification": "01.11"
+    },
+    "M_Mixes": {
+        "unit": "tonne",
+        "name": "mixes and doughs",
+        "classification": "10.89"
+    },
+    "M_Molas": {
+        "unit": "tonne",
+        "name": "molasses",
+        "classification": "10.81"
+    },
+    "M_Mush_can": {
+        "unit": "tonne",
+        "name": "canned mushrooms",
+        "classification": "10.32"
+    },
+    "M_Mush_dry": {
+        "unit": "tonne",
+        "name": "dried mushrooms",
+        "classification": "10.32"
+    },
+    "M_Mushs": {
+        "unit": "tonne",
+        "name": "mushrooms",
+        "classification": "01.13"
+    },
+    "M_Mustd": {
+        "unit": "tonne",
+        "name": "mustard seed",
+        "classification": "01.11"
+    },
+    "M_NAPT": {
+        "unit": "tonne",
+        "name": "naphtha",
+        "classification": "19.2"
+    },
+    "M_NIKO": {
+        "unit": "tonne",
+        "name": "nickel ores and concentrates",
+        "classification": "07.29"
+    },
+    "M_NK_fert": {
+        "unit": "tonne",
+        "name": "other NKcompounds, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_NPK": {
+        "unit": "tonne",
+        "name": "NPK fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_NP_fert": {
+        "unit": "tonne",
+        "name": "NP fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_NSPP": {
+        "unit": "tonne",
+        "name": "non-specified petroleum products",
+        "classification": "19.2"
+    },
+    "M_NUCF": {
+        "unit": "tonne",
+        "name": "nuclear fuel",
+        "classification": "24.46"
+    },
+    "M_N_AmmNit": {
+        "unit": "tonne",
+        "name": "ammonium nitrate (an), as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_N_AmmSol": {
+        "unit": "tonne",
+        "name": "ammonium sulphate, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_N_CaAmNit": {
+        "unit": "tonne",
+        "name": "calcium ammonium nitrate (can) and other mixtures with calcium carbonate, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_N_solution": {
+        "unit": "tonne",
+        "name": "nitrogen solutions, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_N_urea": {
+        "unit": "tonne",
+        "name": "urea, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_Nat_Elec": {
+        "unit": "TJ",
+        "name": "electricity, mix of domestic production",
+        "classification": "35.11"
+    },
+    "M_Nat_Fish": {
+        "unit": "tonne",
+        "name": "fish, mix of domestic production",
+        "classification": "03.1"
+    },
+    "M_Nat_Heat": {
+        "unit": "TJ",
+        "name": "heat, mix of domestic production",
+        "classification": "35.3"
+    },
+    "M_Nfert": {
+        "unit": "tonne",
+        "name": "fertiliser nutrient, N",
+        "classification": "20.15"
+    },
+    "M_Nutms": {
+        "unit": "tonne",
+        "name": "nutmeg, mace, cardamoms",
+        "classification": "01.28"
+    },
+    "M_Nuts": {
+        "unit": "tonne",
+        "name": "prepared nuts",
+        "classification": "10.32"
+    },
+    "M_Nutss": {
+        "unit": "tonne",
+        "name": "nuts nes",
+        "classification": "01.25"
+    },
+    "M_OBUS": {
+        "unit": "MEUR",
+        "name": "other business services",
+        "classification": 74
+    },
+    "M_OFMA": {
+        "unit": "tonne",
+        "name": "office machinery and computers",
+        "classification": "26.2"
+    },
+    "M_OGPL": {
+        "unit": "tonne",
+        "name": "hydrocarbons, other",
+        "classification": "06.2"
+    },
+    "M_ONFM": {
+        "unit": "tonne",
+        "name": "other non-ferrous metal products",
+        "classification": "24.45"
+    },
+    "M_ONFO": {
+        "unit": "tonne",
+        "name": "other non-ferrous metal ores and concentrates",
+        "classification": "07.29"
+    },
+    "M_ONFW": {
+        "unit": "tonne",
+        "name": "recycling of other non-ferrous metals",
+        "classification": "24.45"
+    },
+    "M_ONF_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of other non-ferrous metals",
+        "classification": "38.21"
+    },
+    "M_ONF_LAND": {
+        "unit": "tonne",
+        "name": "landfill of other non-ferrous metals",
+        "classification": "38.21"
+    },
+    "M_ONMM": {
+        "unit": "tonne",
+        "name": "other non-metallic mineral products",
+        "classification": "23.99"
+    },
+    "M_ORAN": {
+        "unit": "tonne",
+        "name": "uranium and thorium ores",
+        "classification": "07.21"
+    },
+    "M_ORGA": {
+        "unit": "MEUR",
+        "name": "membership organisation services n.e.c.",
+        "classification": 94
+    },
+    "M_OSER": {
+        "unit": "MEUR",
+        "name": "other services (e.g. spiritualists, dating services, shoe shiners, porters)",
+        "classification": 96
+    },
+    "M_OTBC": {
+        "unit": "tonne",
+        "name": "other bituminous coal",
+        "classification": "05.2"
+    },
+    "M_OTRE": {
+        "unit": "MEUR",
+        "name": "other transport equipment",
+        "classification": 30
+    },
+    "M_Oatsd": {
+        "unit": "tonne",
+        "name": "oats, rolled",
+        "classification": "10.6"
+    },
+    "M_Oatss": {
+        "unit": "tonne",
+        "name": "oats",
+        "classification": "01.11"
+    },
+    "M_Offa_chick": {
+        "unit": "tonne",
+        "name": "offals and liver of chickens",
+        "classification": "10.12"
+    },
+    "M_Offa_duck": {
+        "unit": "tonne",
+        "name": "offals and liver of ducks",
+        "classification": "10.12"
+    },
+    "M_Offa_geese": {
+        "unit": "tonne",
+        "name": "offals and liver of geese",
+        "classification": "10.11"
+    },
+    "M_Offa_turkey": {
+        "unit": "tonne",
+        "name": "offals and liver of turkey",
+        "classification": "10.12"
+    },
+    "M_Offae_cow": {
+        "unit": "tonne",
+        "name": "offals of cattle, edible",
+        "classification": "10.11"
+    },
+    "M_Offae_pigs": {
+        "unit": "tonne",
+        "name": "offals of pigs, edible",
+        "classification": "10.11"
+    },
+    "M_Offae_shee": {
+        "unit": "tonne",
+        "name": "offals of sheep, edible",
+        "classification": "10.11"
+    },
+    "M_Offas_buff": {
+        "unit": "tonne",
+        "name": "offals of buffalo, edible",
+        "classification": "10.11"
+    },
+    "M_Offas_came": {
+        "unit": "tonne",
+        "name": "offals of camels, edibles",
+        "classification": "10.11"
+    },
+    "M_Offas_goat": {
+        "unit": "tonne",
+        "name": "offals of goats, edible",
+        "classification": "10.11"
+    },
+    "M_Offas_hors": {
+        "unit": "tonne",
+        "name": "offals of horses",
+        "classification": "10.11"
+    },
+    "M_Oil_coco": {
+        "unit": "tonne",
+        "name": "oil of coconuts",
+        "classification": "10.41"
+    },
+    "M_Oil_cott": {
+        "unit": "tonne",
+        "name": "oil of cottonseed",
+        "classification": "10.41"
+    },
+    "M_Oil_grou": {
+        "unit": "tonne",
+        "name": "oil of groundnuts",
+        "classification": "10.41"
+    },
+    "M_Oil_hemp": {
+        "unit": "tonne",
+        "name": "oil of hempseed",
+        "classification": "10.41"
+    },
+    "M_Oil_hydr": {
+        "unit": "tonne",
+        "name": "hydrogenated oils and fats",
+        "classification": "10.41"
+    },
+    "M_Oil_kapo": {
+        "unit": "tonne",
+        "name": "oil of kapok",
+        "classification": "10.41"
+    },
+    "M_Oil_lins": {
+        "unit": "tonne",
+        "name": "oil of linseed",
+        "classification": "10.41"
+    },
+    "M_Oil_maiz": {
+        "unit": "tonne",
+        "name": "oil of maize",
+        "classification": "10.41"
+    },
+    "M_Oil_must": {
+        "unit": "tonne",
+        "name": "oil of mustard seed",
+        "classification": "10.41"
+    },
+    "M_Oil_olive": {
+        "unit": "tonne",
+        "name": "oil of olives, virgin",
+        "classification": "10.41"
+    },
+    "M_Oil_olivres": {
+        "unit": "tonne",
+        "name": "oil of olive residues",
+        "classification": "10.41"
+    },
+    "M_Oil_pal_ker": {
+        "unit": "tonne",
+        "name": "oil of palm kernel",
+        "classification": "10.41"
+    },
+    "M_Oil_palm": {
+        "unit": "tonne",
+        "name": "oil of palm",
+        "classification": "10.41"
+    },
+    "M_Oil_popp": {
+        "unit": "tonne",
+        "name": "oil of poppy seed",
+        "classification": "10.41"
+    },
+    "M_Oil_rape": {
+        "unit": "tonne",
+        "name": "oil of rapeseed or canola oil",
+        "classification": "10.41"
+    },
+    "M_Oil_rice": {
+        "unit": "tonne",
+        "name": "oil of rice bran",
+        "classification": "10.41"
+    },
+    "M_Oil_saff": {
+        "unit": "tonne",
+        "name": "oil of safflower seed",
+        "classification": "10.41"
+    },
+    "M_Oil_sesa": {
+        "unit": "tonne",
+        "name": "oil of sesame seed",
+        "classification": "10.41"
+    },
+    "M_Oil_soyb": {
+        "unit": "tonne",
+        "name": "oil of soybeans",
+        "classification": "10.41"
+    },
+    "M_Oil_sunf": {
+        "unit": "tonne",
+        "name": "oil of sunflower seed",
+        "classification": "10.41"
+    },
+    "M_Oiloliv": {
+        "unit": "tonne",
+        "name": "olive oil",
+        "classification": "10.41"
+    },
+    "M_Oilpalm": {
+        "unit": "tonne",
+        "name": "palm oil",
+        "classification": "10.41"
+    },
+    "M_Oilrape": {
+        "unit": "tonne",
+        "name": "oil, tung nuts",
+        "classification": "10.41"
+    },
+    "M_Oils_nes": {
+        "unit": "tonne",
+        "name": "animal oils and fats nes",
+        "classification": "10.11"
+    },
+    "M_Oilsoy": {
+        "unit": "tonne",
+        "name": "soybean oil",
+        "classification": "10.41"
+    },
+    "M_Oilss": {
+        "unit": "tonne",
+        "name": "oilseeds nes",
+        "classification": "01.11"
+    },
+    "M_Okraa": {
+        "unit": "tonne",
+        "name": "okra",
+        "classification": "01.13"
+    },
+    "M_Olivs": {
+        "unit": "tonne",
+        "name": "olives",
+        "classification": "01.26"
+    },
+    "M_Onion": {
+        "unit": "tonne",
+        "name": "onions, shallots (green)",
+        "classification": "01.13"
+    },
+    "M_Onioy": {
+        "unit": "tonne",
+        "name": "onions, dry",
+        "classification": "01.13"
+    },
+    "M_Orans": {
+        "unit": "tonne",
+        "name": "oranges",
+        "classification": "01.23"
+    },
+    "M_Othalbev": {
+        "unit": "tonne",
+        "name": "other alcoholic beverages",
+        "classification": "11.04"
+    },
+    "M_Othanpr": {
+        "unit": "tonne",
+        "name": "other animal products",
+        "classification": "01.42"
+    },
+    "M_Othdiar": {
+        "unit": "tonne",
+        "name": "other diary products",
+        "classification": "10.51"
+    },
+    "M_Othflour": {
+        "unit": "tonne",
+        "name": "other flour",
+        "classification": "10.6"
+    },
+    "M_Othmeat": {
+        "unit": "tonne",
+        "name": "animals, other",
+        "classification": "01.49"
+    },
+    "M_Othproc": {
+        "unit": "tonne",
+        "name": "other processed food",
+        "classification": "10.89"
+    },
+    "M_Othvoils": {
+        "unit": "tonne",
+        "name": "other vegetable oil",
+        "classification": "10.41"
+    },
+    "M_P2O5fert": {
+        "unit": "tonne",
+        "name": "fertiliser nutrient, P2O5",
+        "classification": "20.15"
+    },
+    "M_PADF": {
+        "unit": "MEUR",
+        "name": "public administration and defence services; compulsory social security services",
+        "classification": 84
+    },
+    "M_PAPE": {
+        "unit": "tonne",
+        "name": "paper and paper products",
+        "classification": "17.2"
+    },
+    "M_PAPR": {
+        "unit": "tonne",
+        "name": "recycling of paper",
+        "classification": 17
+    },
+    "M_PARW": {
+        "unit": "tonne",
+        "name": "paraffin waxes",
+        "classification": "19.2"
+    },
+    "M_PATF": {
+        "unit": "tonne",
+        "name": "patent fuel",
+        "classification": "19.1"
+    },
+    "M_PA_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of paper",
+        "classification": "38.21"
+    },
+    "M_PEAT": {
+        "unit": "tonne",
+        "name": "peat",
+        "classification": "05.2"
+    },
+    "M_PETC": {
+        "unit": "tonne",
+        "name": "petroleum coke",
+        "classification": "19.2"
+    },
+    "M_PK_fert": {
+        "unit": "tonne",
+        "name": "PK compounds, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_PLAS": {
+        "unit": "tonne",
+        "name": "plastics, basic",
+        "classification": "38.32"
+    },
+    "M_PLAW": {
+        "unit": "tonne",
+        "name": "recycling of plastic and rubber",
+        "classification": "20.16"
+    },
+    "M_PL_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of plastic and rubber",
+        "classification": "38.21"
+    },
+    "M_PM_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of precious metals",
+        "classification": "38.21"
+    },
+    "M_PM_LAND": {
+        "unit": "tonne",
+        "name": "landfill of precious metals",
+        "classification": "38.21"
+    },
+    "M_POWB": {
+        "unit": "TJ",
+        "name": "electricity by biomass and waste, global mix",
+        "classification": "35.11"
+    },
+    "M_POWC": {
+        "unit": "TJ",
+        "name": "electricity by coal, global mix",
+        "classification": "35.11"
+    },
+    "M_POWD": {
+        "unit": "MEUR",
+        "name": "distribution and trade services of electricity (excl the electricity)",
+        "classification": "35.13"
+    },
+    "M_POWG": {
+        "unit": "TJ",
+        "name": "electricity by gas, global mix",
+        "classification": "35.11"
+    },
+    "M_POWH": {
+        "unit": "TJ",
+        "name": "electricity by hydro, global mix",
+        "classification": "35.11"
+    },
+    "M_POWM": {
+        "unit": "TJ",
+        "name": "electricity by geothermal, global mix",
+        "classification": "35.11"
+    },
+    "M_POWN": {
+        "unit": "TJ",
+        "name": "electricity by nuclear, global mix",
+        "classification": "35.11"
+    },
+    "M_POWO": {
+        "unit": "TJ",
+        "name": "electricity by tide, wave, ocean, global mix",
+        "classification": "35.11"
+    },
+    "M_POWP": {
+        "unit": "TJ",
+        "name": "electricity by petroleum and other oil derivatives, global mix",
+        "classification": "35.11"
+    },
+    "M_POWS": {
+        "unit": "TJ",
+        "name": "electricity by solar photovoltaic, global mix",
+        "classification": "35.11"
+    },
+    "M_POWW": {
+        "unit": "TJ",
+        "name": "electricity by wind, global mix",
+        "classification": "35.11"
+    },
+    "M_POWZ": {
+        "unit": "TJ",
+        "name": "electricity nec, global mix",
+        "classification": "35.11"
+    },
+    "M_PREM": {
+        "unit": "tonne",
+        "name": "precious metals",
+        "classification": "24.41"
+    },
+    "M_PREO": {
+        "unit": "tonne",
+        "name": "precious metal ores and concentrates",
+        "classification": "07.29"
+    },
+    "M_PREW": {
+        "unit": "tonne",
+        "name": "recycling of precious metals",
+        "classification": "24.41"
+    },
+    "M_PRHH": {
+        "unit": "MEUR",
+        "name": "private households with employed persons (maids, cooks, waiters, gardeners, gatekeepers, chauffeurs etc)",
+        "classification": 97
+    },
+    "M_PTEL": {
+        "unit": "MEUR",
+        "name": "post and telecommunication services",
+        "classification": 53
+    },
+    "M_PULP": {
+        "unit": "tonne",
+        "name": "pulp",
+        "classification": "17.1"
+    },
+    "M_Papas": {
+        "unit": "tonne",
+        "name": "papayas",
+        "classification": "01.22"
+    },
+    "M_Pasta": {
+        "unit": "tonne",
+        "name": "pasta",
+        "classification": "10.73"
+    },
+    "M_Pasty": {
+        "unit": "tonne",
+        "name": "pastry",
+        "classification": "10.89"
+    },
+    "M_Peacs": {
+        "unit": "tonne",
+        "name": "peaches and nectarines",
+        "classification": "01.24"
+    },
+    "M_Peanr": {
+        "unit": "tonne",
+        "name": "peanut butter",
+        "classification": "10.41"
+    },
+    "M_Pears": {
+        "unit": "tonne",
+        "name": "pears",
+        "classification": "01.24"
+    },
+    "M_Peasn": {
+        "unit": "tonne",
+        "name": "peas, green",
+        "classification": "01.11"
+    },
+    "M_Peasy": {
+        "unit": "tonne",
+        "name": "peas, dry",
+        "classification": "01.11"
+    },
+    "M_Pepp": {
+        "unit": "tonne",
+        "name": "pepper",
+        "classification": "01.28"
+    },
+    "M_Peppt": {
+        "unit": "tonne",
+        "name": "peppermint, spearmint",
+        "classification": "01.28"
+    },
+    "M_Perss": {
+        "unit": "tonne",
+        "name": "persimmons",
+        "classification": "01.13"
+    },
+    "M_Pfert": {
+        "unit": "tonne",
+        "name": "phosphatic fertilizer, as total mass of fertiliser product",
+        "classification": "20.15"
+    },
+    "M_Piges": {
+        "unit": "tonne",
+        "name": "pigeon peas",
+        "classification": "01.11"
+    },
+    "M_Pigmeat": {
+        "unit": "tonne",
+        "name": "meat from pig (live)",
+        "classification": "01.46"
+    },
+    "M_Pined": {
+        "unit": "tonne",
+        "name": "pineapples, canned",
+        "classification": "10.32"
+    },
+    "M_Pines": {
+        "unit": "tonne",
+        "name": "pineapples",
+        "classification": "01.22"
+    },
+    "M_Pists": {
+        "unit": "tonne",
+        "name": "pistachios",
+        "classification": "01.25"
+    },
+    "M_Plans": {
+        "unit": "tonne",
+        "name": "plantains",
+        "classification": "01.22"
+    },
+    "M_Plum": {
+        "unit": "tonne",
+        "name": "plums, dried",
+        "classification": "10.39"
+    },
+    "M_Plums": {
+        "unit": "tonne",
+        "name": "plums",
+        "classification": "01.24"
+    },
+    "M_Poleggs": {
+        "unit": "tonne",
+        "name": "M_Poleggs",
+        "classification": ""
+    },
+    "M_Polmeat": {
+        "unit": "tonne",
+        "name": "poultry meat",
+        "classification": "01.47"
+    },
+    "M_Poppd": {
+        "unit": "tonne",
+        "name": "poppy seed",
+        "classification": "01.11"
+    },
+    "M_Potan": {
+        "unit": "tonne",
+        "name": "frozen potatoes",
+        "classification": "10.3"
+    },
+    "M_Potas": {
+        "unit": "tonne",
+        "name": "potatoes",
+        "classification": "01.13"
+    },
+    "M_Prmilk": {
+        "unit": "tonne",
+        "name": "processed milk",
+        "classification": "10.51"
+    },
+    "M_Prorice": {
+        "unit": "tonne",
+        "name": "rice",
+        "classification": "10.6"
+    },
+    "M_Pulss": {
+        "unit": "tonne",
+        "name": "pulses nes",
+        "classification": "01.11"
+    },
+    "M_Pumps": {
+        "unit": "tonne",
+        "name": "pumpkins, squash and gourds",
+        "classification": "01.19"
+    },
+    "M_Pyred": {
+        "unit": "tonne",
+        "name": "pyrethrum, dried flowers",
+        "classification": "01.28"
+    },
+    "M_Quina": {
+        "unit": "tonne",
+        "name": "quinoa",
+        "classification": "01.11"
+    },
+    "M_Quins": {
+        "unit": "tonne",
+        "name": "quinces",
+        "classification": "01.24"
+    },
+    "M_RATV": {
+        "unit": "tonne",
+        "name": "radio, television and communication equipment and apparatus",
+        "classification": "26.3"
+    },
+    "M_REAL": {
+        "unit": "MEUR",
+        "name": "real estate services",
+        "classification": 68
+    },
+    "M_RECR": {
+        "unit": "MEUR",
+        "name": "recreational, cultural and sporting services",
+        "classification": 59
+    },
+    "M_REFF": {
+        "unit": "tonne",
+        "name": "refinery feedstocks",
+        "classification": "20.16"
+    },
+    "M_REFN": {
+        "unit": "tonne",
+        "name": "petroleum refinery",
+        "classification": "19.2"
+    },
+    "M_RESD": {
+        "unit": "MEUR",
+        "name": "research and development services",
+        "classification": 72
+    },
+    "M_RGAS": {
+        "unit": "tonne",
+        "name": "refinery gas",
+        "classification": "19.2"
+    },
+    "M_RUBP": {
+        "unit": "tonne",
+        "name": "rubber and plastic products",
+        "classification": 22
+    },
+    "M_RYMS": {
+        "unit": "MEUR",
+        "name": "services relating to the collection and sorting of scrap/secondary materials (excl the material)",
+        "classification": "38.32"
+    },
+    "M_Raiss": {
+        "unit": "tonne",
+        "name": "raisins",
+        "classification": "10.32"
+    },
+    "M_Ramie": {
+        "unit": "tonne",
+        "name": "ramie",
+        "classification": "01.16"
+    },
+    "M_Raped": {
+        "unit": "tonne",
+        "name": "rapeseed or colza seed",
+        "classification": "01.11"
+    },
+    "M_Rasps": {
+        "unit": "tonne",
+        "name": "raspberries",
+        "classification": "01.25"
+    },
+    "M_Rice_brok": {
+        "unit": "tonne",
+        "name": "rice, broken",
+        "classification": "10.6"
+    },
+    "M_Rice_husk": {
+        "unit": "tonne",
+        "name": "rice, husked",
+        "classification": "10.6"
+    },
+    "M_Rice_milhusk": {
+        "unit": "tonne",
+        "name": "rice, milled (husked)",
+        "classification": "10.6"
+    },
+    "M_Rice_mill": {
+        "unit": "tonne",
+        "name": "rice, milled",
+        "classification": "10.6"
+    },
+    "M_Ricey": {
+        "unit": "tonne",
+        "name": "rice, paddy",
+        "classification": "01.12"
+    },
+    "M_Roots": {
+        "unit": "tonne",
+        "name": "roots and tubers nes",
+        "classification": "01.13"
+    },
+    "M_Roscoff": {
+        "unit": "tonne",
+        "name": "roasted coffe",
+        "classification": "10.83"
+    },
+    "M_Rubber": {
+        "unit": "tonne",
+        "name": "natural rubber",
+        "classification": 2
+    },
+    "M_Ryee": {
+        "unit": "tonne",
+        "name": "rye",
+        "classification": "01.11"
+    },
+    "M_SDCL": {
+        "unit": "tonne",
+        "name": "sand and clay",
+        "classification": "38.32"
+    },
+    "M_SE_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of sewage sludge",
+        "classification": 37
+    },
+    "M_SE_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration of sewage sludge",
+        "classification": 37
+    },
+    "M_SE_LAND": {
+        "unit": "tonne",
+        "name": "landfill of sewage sludge",
+        "classification": 37
+    },
+    "M_SE_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of sewage sludge",
+        "classification": 37
+    },
+    "M_SE_RECY": {
+        "unit": "tonne",
+        "name": "recycling of sewage sludge",
+        "classification": 37
+    },
+    "M_SE_biog": {
+        "unit": "tonne",
+        "name": "biogasification and land application",
+        "classification": "38.21"
+    },
+    "M_SE_wwater": {
+        "unit": "tonne",
+        "name": "provision of waste water services for sewage",
+        "classification": 37
+    },
+    "M_STEL": {
+        "unit": "tonne",
+        "name": "basic iron and steel and of ferro-alloys and first products thereof",
+        "classification": "38.32"
+    },
+    "M_STEW": {
+        "unit": "tonne",
+        "name": "recycling of steel",
+        "classification": 24
+    },
+    "M_STON": {
+        "unit": "tonne",
+        "name": "stone",
+        "classification": "08.11"
+    },
+    "M_ST_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of steel",
+        "classification": "38.21"
+    },
+    "M_ST_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of steel",
+        "classification": "38.21"
+    },
+    "M_ST_LAND": {
+        "unit": "tonne",
+        "name": "landfill of steel",
+        "classification": "38.21"
+    },
+    "M_ST_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of steel",
+        "classification": "38.21"
+    },
+    "M_SUBC": {
+        "unit": "tonne",
+        "name": "sub-bituminous coal",
+        "classification": "05.2"
+    },
+    "M_Saffd": {
+        "unit": "tonne",
+        "name": "safflower seed",
+        "classification": "01.11"
+    },
+    "M_Seedcot": {
+        "unit": "tonne",
+        "name": "seedcotton",
+        "classification": "01.11"
+    },
+    "M_Sesad": {
+        "unit": "tonne",
+        "name": "sesame seed",
+        "classification": "01.11"
+    },
+    "M_Shemeat": {
+        "unit": "tonne",
+        "name": "meat from sheep (live)",
+        "classification": "01.45"
+    },
+    "M_Shemilk": {
+        "unit": "tonne",
+        "name": "milk raw from sheep",
+        "classification": "01.45"
+    },
+    "M_Silk_ree": {
+        "unit": "tonne",
+        "name": "cocoons, reelable",
+        "classification": "01.49"
+    },
+    "M_Silkw": {
+        "unit": "tonne",
+        "name": "silk, raw",
+        "classification": "01.49"
+    },
+    "M_Sisal": {
+        "unit": "tonne",
+        "name": "sisal",
+        "classification": "01.16"
+    },
+    "M_Skin_goat": {
+        "unit": "tonne",
+        "name": "goatskins, fresh",
+        "classification": "10.11"
+    },
+    "M_Skin_she": {
+        "unit": "tonne",
+        "name": "sheepskins, fresh",
+        "classification": "10.11"
+    },
+    "M_Snaia": {
+        "unit": "tonne",
+        "name": "snails and sea snails",
+        "classification": "01.49"
+    },
+    "M_Sorgm": {
+        "unit": "tonne",
+        "name": "sorghum",
+        "classification": "01.11"
+    },
+    "M_Soyace": {
+        "unit": "tonne",
+        "name": "soya sauce",
+        "classification": "10.41"
+    },
+    "M_Soyard": {
+        "unit": "tonne",
+        "name": "soya curd",
+        "classification": "10.41"
+    },
+    "M_Soyate": {
+        "unit": "tonne",
+        "name": "soya paste",
+        "classification": "10.41"
+    },
+    "M_Soybs": {
+        "unit": "tonne",
+        "name": "soybeans",
+        "classification": "01.25"
+    },
+    "M_Spics": {
+        "unit": "tonne",
+        "name": "spices nes",
+        "classification": "01.28"
+    },
+    "M_Spinh": {
+        "unit": "tonne",
+        "name": "spinach",
+        "classification": "01.13"
+    },
+    "M_Starch_cass": {
+        "unit": "tonne",
+        "name": "starch of cassava",
+        "classification": "10.6"
+    },
+    "M_Starch_maiz": {
+        "unit": "tonne",
+        "name": "starch of maize",
+        "classification": "10.6"
+    },
+    "M_Starch_pota": {
+        "unit": "tonne",
+        "name": "starch of potatoes",
+        "classification": "10.6"
+    },
+    "M_Starch_rice": {
+        "unit": "tonne",
+        "name": "starch of rice",
+        "classification": "10.6"
+    },
+    "M_Starch_whea": {
+        "unit": "tonne",
+        "name": "starch of wheat",
+        "classification": "10.6"
+    },
+    "M_Stras": {
+        "unit": "tonne",
+        "name": "strawberries",
+        "classification": "01.25"
+    },
+    "M_Stris": {
+        "unit": "tonne",
+        "name": "string beans",
+        "classification": "01.25"
+    },
+    "M_Sugacrs": {
+        "unit": "tonne",
+        "name": "sugar crops nes",
+        "classification": "01.19"
+    },
+    "M_Sugae": {
+        "unit": "tonne",
+        "name": "sugar cane",
+        "classification": "01.14"
+    },
+    "M_Sugar": {
+        "unit": "tonne",
+        "name": "sugar cane",
+        "classification": "10.81"
+    },
+    "M_Sugar_nc": {
+        "unit": "tonne",
+        "name": "sugar, non-centrifugal",
+        "classification": "10.81"
+    },
+    "M_Sugar_rc": {
+        "unit": "tonne",
+        "name": "sugar, raw centrifugal",
+        "classification": "10.81"
+    },
+    "M_Sugarn": {
+        "unit": "tonne",
+        "name": "sugar and syrups nes",
+        "classification": "10.81"
+    },
+    "M_Sugas": {
+        "unit": "tonne",
+        "name": "sugar crops nes",
+        "classification": "01.19"
+    },
+    "M_Sugat": {
+        "unit": "tonne",
+        "name": "sugar beet",
+        "classification": "01.14"
+    },
+    "M_Sunfd": {
+        "unit": "tonne",
+        "name": "sunflower seed",
+        "classification": "01.11"
+    },
+    "M_Sweed": {
+        "unit": "tonne",
+        "name": "sweet corn, prepared or preserved",
+        "classification": "10.32"
+    },
+    "M_Sween": {
+        "unit": "tonne",
+        "name": "sweet corn, frozen",
+        "classification": "10.3"
+    },
+    "M_Swees": {
+        "unit": "tonne",
+        "name": "sweet potatoes",
+        "classification": "01.13"
+    },
+    "M_TAIR": {
+        "unit": "MEUR",
+        "name": "air transport services",
+        "classification": 51
+    },
+    "M_TAUX": {
+        "unit": "MEUR",
+        "name": "supporting and auxiliary transport services; travel agency services",
+        "classification": 52
+    },
+    "M_TDFU": {
+        "unit": "MEUR",
+        "name": "retail trade services of motor fuel",
+        "classification": 45
+    },
+    "M_TDMO": {
+        "unit": "MEUR",
+        "name": "sale, maintenance and repair of motor vehicles",
+        "classification": 45
+    },
+    "M_TDRT": {
+        "unit": "MEUR",
+        "name": "retail trade services, except of motor vehicles and motorcycles; repair services of personal and household goods",
+        "classification": 47
+    },
+    "M_TDWH": {
+        "unit": "MEUR",
+        "name": "wholesale trade and commission trade services, except of motor vehicles and motorcycles",
+        "classification": 46
+    },
+    "M_TEXT": {
+        "unit": "tonne",
+        "name": "textiles",
+        "classification": 13
+    },
+    "M_TE_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of textiles",
+        "classification": "38.21"
+    },
+    "M_TE_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of textiles",
+        "classification": "38.21"
+    },
+    "M_TE_LAND": {
+        "unit": "tonne",
+        "name": "landfill of textiles",
+        "classification": "38.21"
+    },
+    "M_TE_RECY": {
+        "unit": "tonne",
+        "name": "recycling of textiles",
+        "classification": "38.32"
+    },
+    "M_TLND": {
+        "unit": "MEUR",
+        "name": "other land transportation services",
+        "classification": 49
+    },
+    "M_TOBC": {
+        "unit": "tonne",
+        "name": "tobacco products",
+        "classification": 12
+    },
+    "M_TPIP": {
+        "unit": "MEUR",
+        "name": "transportation services via pipelines",
+        "classification": "49.5"
+    },
+    "M_TRAI": {
+        "unit": "MEUR",
+        "name": "railway transportation services",
+        "classification": 49
+    },
+    "M_TWAI": {
+        "unit": "MEUR",
+        "name": "inland water transportation services",
+        "classification": 50
+    },
+    "M_TWAS": {
+        "unit": "MEUR",
+        "name": "sea and coastal water transportation services",
+        "classification": 50
+    },
+    "M_Talld": {
+        "unit": "tonne",
+        "name": "tallowtree seeds",
+        "classification": "01.11"
+    },
+    "M_Tallw": {
+        "unit": "tonne",
+        "name": "tallow",
+        "classification": "10.51"
+    },
+    "M_Tapia": {
+        "unit": "tonne",
+        "name": "tapioca of cassava",
+        "classification": "10.6"
+    },
+    "M_Tapis": {
+        "unit": "tonne",
+        "name": "tapioca of potatoes",
+        "classification": "10.6"
+    },
+    "M_Taro": {
+        "unit": "tonne",
+        "name": "taro (cocoyam)",
+        "classification": "01.26"
+    },
+    "M_Teaa": {
+        "unit": "tonne",
+        "name": "tea",
+        "classification": "01.27"
+    },
+    "M_Tmand": {
+        "unit": "tonne",
+        "name": "tangerines, mandarins, clementines, satsumas",
+        "classification": "01.23"
+    },
+    "M_Tobac": {
+        "unit": "tonne",
+        "name": "tobacco leaves",
+        "classification": "01.15"
+    },
+    "M_Tomad": {
+        "unit": "tonne",
+        "name": "tomatoes, peeled (o/t vinegar)",
+        "classification": "10.32"
+    },
+    "M_Tomae": {
+        "unit": "tonne",
+        "name": "paste of tomatoes",
+        "classification": "10.32"
+    },
+    "M_Tomas": {
+        "unit": "tonne",
+        "name": "tomatoes, fresh",
+        "classification": "01.13"
+    },
+    "M_Trite": {
+        "unit": "tonne",
+        "name": "triticale",
+        "classification": "01.11"
+    },
+    "M_Tung_nuts": {
+        "unit": "tonne",
+        "name": "tung nuts",
+        "classification": "01.25"
+    },
+    "M_UN_INCI": {
+        "unit": "tonne",
+        "name": "incineration with energy recovery of unsorted waste",
+        "classification": "38.21"
+    },
+    "M_UN_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of unsorted waste",
+        "classification": "38.21"
+    },
+    "M_UN_LAND": {
+        "unit": "tonne",
+        "name": "landfill of unsorted waste",
+        "classification": "38.21"
+    },
+    "M_UN_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of unsorted waste",
+        "classification": "38.21"
+    },
+    "M_UN_RECY": {
+        "unit": "tonne",
+        "name": "recycling of unsorted waste",
+        "classification": "38.32"
+    },
+    "M_Vania": {
+        "unit": "tonne",
+        "name": "vanilla",
+        "classification": "01.28"
+    },
+    "M_Vegeh": {
+        "unit": "tonne",
+        "name": "homogenized vegetable preparations",
+        "classification": "10.32"
+    },
+    "M_Vegfats": {
+        "unit": "tonne",
+        "name": "vegetable fats",
+        "classification": "10.41"
+    },
+    "M_Vegleg_nes": {
+        "unit": "tonne",
+        "name": "broad beans, green",
+        "classification": "01.13"
+    },
+    "M_Vetcs": {
+        "unit": "tonne",
+        "name": "vetches",
+        "classification": "01.11"
+    },
+    "M_WATR": {
+        "unit": "MEUR",
+        "name": "collected and purified water, distribution services of water",
+        "classification": 36
+    },
+    "M_WHSP": {
+        "unit": "tonne",
+        "name": "white spirit & sbp",
+        "classification": "19.2"
+    },
+    "M_WOOW": {
+        "unit": "tonne",
+        "name": "composting of food",
+        "classification": "38.32"
+    },
+    "M_WO_OTHE": {
+        "unit": "tonne",
+        "name": "other disposal of wood",
+        "classification": "38.21"
+    },
+    "M_Wafes": {
+        "unit": "tonne",
+        "name": "wafers",
+        "classification": "10.89"
+    },
+    "M_Walnd": {
+        "unit": "tonne",
+        "name": "walnuts, without shell",
+        "classification": "10.39"
+    },
+    "M_Walnl": {
+        "unit": "tonne",
+        "name": "walnuts, in shell",
+        "classification": "01.25"
+    },
+    "M_Wates": {
+        "unit": "tonne",
+        "name": "watermelons",
+        "classification": "01.13"
+    },
+    "M_Wheat": {
+        "unit": "tonne",
+        "name": "wheat",
+        "classification": "01.11"
+    },
+    "M_Whey_con": {
+        "unit": "tonne",
+        "name": "whey, condensed",
+        "classification": "10.51"
+    },
+    "M_Whey_dry": {
+        "unit": "tonne",
+        "name": "dry whey",
+        "classification": "10.51"
+    },
+    "M_Wheye": {
+        "unit": "tonne",
+        "name": "whey cheese",
+        "classification": "10.51"
+    },
+    "M_Wheyh": {
+        "unit": "tonne",
+        "name": "whey, fresh",
+        "classification": "10.51"
+    },
+    "M_Whflour": {
+        "unit": "tonne",
+        "name": "wheat flour",
+        "classification": "10.6"
+    },
+    "M_Wine": {
+        "unit": "tonne",
+        "name": "wine",
+        "classification": "11.02"
+    },
+    "M_Yams": {
+        "unit": "tonne",
+        "name": "yams",
+        "classification": "01.13"
+    },
+    "M_Yoght": {
+        "unit": "tonne",
+        "name": "yoghurt",
+        "classification": "10.51"
+    },
+    "M_auto": {
+        "unit": "items",
+        "name": "cars",
+        "classification": 29
+    },
+    "M_bus": {
+        "unit": "items",
+        "name": "buses",
+        "classification": 29
+    },
+    "M_cOil_beans": {
+        "unit": "tonne",
+        "name": "oil of castor beans",
+        "classification": "10.41"
+    },
+    "M_electricity": {
+        "unit": "TJ",
+        "name": "electricity",
+        "classification": "35.1"
+    },
+    "M_feed_ener": {
+        "unit": "tonne",
+        "name": "animal feed energy",
+        "classification": "10.91"
+    },
+    "M_feed_prot": {
+        "unit": "tonne",
+        "name": "animal feed protein",
+        "classification": "10.91"
+    },
+    "M_frtrop_nes": {
+        "unit": "tonne",
+        "name": "fruit, tropical (fresh) nes",
+        "classification": "01.22"
+    },
+    "M_fuel_TAIR": {
+        "unit": "tonne",
+        "name": "fuel mix for aviation",
+        "classification": "19.2"
+    },
+    "M_fuel_TLND": {
+        "unit": "tonne",
+        "name": "fuel mix for road transport",
+        "classification": "19.2"
+    },
+    "M_fuel_TRAI": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for rail transport",
+        "classification": ""
+    },
+    "M_fuel_TWAS": {
+        "unit": "TJ",
+        "name": "fuel mix and conbustion for water transport",
+        "classification": ""
+    },
+    "M_heat_CONS": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for construction",
+        "classification": ""
+    },
+    "M_heat_FISH": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for fishing",
+        "classification": ""
+    },
+    "M_heat_HOUS": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for households",
+        "classification": ""
+    },
+    "M_heat_STEL": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for iron and steel",
+        "classification": ""
+    },
+    "M_heat_TPIP": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for pipeline transport",
+        "classification": ""
+    },
+    "M_heat_WOOD": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for wood and wood products",
+        "classification": ""
+    },
+    "M_heat_agriculture": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for agriculture/forestry",
+        "classification": ""
+    },
+    "M_heat_chemicals": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for chemical and petrochemical",
+        "classification": ""
+    },
+    "M_heat_commercial": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for commercial and public services",
+        "classification": ""
+    },
+    "M_heat_food": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for food and tobacco",
+        "classification": ""
+    },
+    "M_heat_machinery": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for machinery",
+        "classification": ""
+    },
+    "M_heat_mine": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for mining and quarrying",
+        "classification": ""
+    },
+    "M_heat_motor": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for transport equipment",
+        "classification": ""
+    },
+    "M_heat_non_ferrous": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for non-ferrous metals",
+        "classification": ""
+    },
+    "M_heat_non_metallic": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for non-metallic minerals",
+        "classification": ""
+    },
+    "M_heat_other": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for industry not elsewhere specified",
+        "classification": ""
+    },
+    "M_heat_paper": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for paper, pulp and printing",
+        "classification": ""
+    },
+    "M_heat_textile": {
+        "unit": "TJ",
+        "name": "fuel mix and combustion for textile and leather",
+        "classification": ""
+    },
+    "M_lCammeat": {
+        "unit": "tonne",
+        "name": "camel meat",
+        "classification": "01.44"
+    },
+    "M_lCatmeat": {
+        "unit": "tonne",
+        "name": "M_lCatmeat",
+        "classification": ""
+    },
+    "M_lGoameat": {
+        "unit": "tonne",
+        "name": "M_lGoameat",
+        "classification": ""
+    },
+    "M_lPolmeat": {
+        "unit": "tonne",
+        "name": "poultry",
+        "classification": "01.47"
+    },
+    "M_lShemeat": {
+        "unit": "tonne",
+        "name": "M_lShemeat",
+        "classification": ""
+    },
+    "M_lSwmeat": {
+        "unit": "tonne",
+        "name": "swine",
+        "classification": "01.46"
+    },
+    "M_oFibrs": {
+        "unit": "tonne",
+        "name": "fibre crops nes",
+        "classification": "01.16"
+    },
+    "M_oFru_cit": {
+        "unit": "tonne",
+        "name": "citrus fruit nes",
+        "classification": "01.23"
+    },
+    "M_oFru_fresh": {
+        "unit": "tonne",
+        "name": "fruit, fresh nes",
+        "classification": "01.29"
+    },
+    "M_oFru_pom": {
+        "unit": "tonne",
+        "name": "pome fruit nes",
+        "classification": "01.24"
+    },
+    "M_oFru_ston": {
+        "unit": "tonne",
+        "name": "stone fruit, fresh nes",
+        "classification": "01.24"
+    },
+    "M_oVege_fresh": {
+        "unit": "tonne",
+        "name": "vegetables, fresh n.e.s.",
+        "classification": "01.13"
+    },
+    "M_pBovmeat": {
+        "unit": "tonne",
+        "name": "beef meat as carcass, global mix",
+        "classification": "10.11"
+    },
+    "M_pDermeat": {
+        "unit": "tonne",
+        "name": "other products from meat, global mix (lard, fat, homogenized meat)",
+        "classification": "10.11"
+    },
+    "M_pMuGomeat": {
+        "unit": "tonne",
+        "name": "mutton and goat meat",
+        "classification": "10.11"
+    },
+    "M_pOthmeat": {
+        "unit": "tonne",
+        "name": "meat other",
+        "classification": "10.11"
+    },
+    "M_pPigmeat": {
+        "unit": "tonne",
+        "name": "pig meat as carcass, global mix",
+        "classification": "10.11"
+    },
+    "M_pPolmeat": {
+        "unit": "tonne",
+        "name": "poultry meat",
+        "classification": "10.12"
+    },
+    "M_palm": {
+        "unit": "tonne",
+        "name": "oil palm fruit",
+        "classification": "01.11"
+    },
+    "M_rGlas": {
+        "unit": "tonne",
+        "name": "M_rGlas",
+        "classification": ""
+    },
+    "M_truck": {
+        "unit": "items",
+        "name": "trucks",
+        "classification": 29
+    },
+    "M_vOil_nes": {
+        "unit": "tonne",
+        "name": "oil of vegetable origin nes",
+        "classification": "10.41"
+    },
+    "M_wAlum": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, aluminium",
+        "classification": 38
+    },
+    "M_wAsh": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, ash",
+        "classification": 38
+    },
+    "M_wBatt": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, batteries and accumulators",
+        "classification": 38
+    },
+    "M_wCons": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, construction",
+        "classification": 38
+    },
+    "M_wCopp": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, copper",
+        "classification": 38
+    },
+    "M_wDisc_eq": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, discarded equipment",
+        "classification": 38
+    },
+    "M_wDisc_veh": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, discarded vehicles",
+        "classification": 38
+    },
+    "M_wFood": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, food",
+        "classification": 38
+    },
+    "M_wGlas": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, glass",
+        "classification": 38
+    },
+    "M_wHazar": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, hazardous",
+        "classification": 38
+    },
+    "M_wLead": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, lead",
+        "classification": 38
+    },
+    "M_wManu": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, manure",
+        "classification": 38
+    },
+    "M_wMix_met": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, mix metals",
+        "classification": 38
+    },
+    "M_wMix_nonferr": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, mix metals non-ferrous",
+        "classification": 38
+    },
+    "M_wPape": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, paper",
+        "classification": 38
+    },
+    "M_wPlas": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, plastic",
+        "classification": 38
+    },
+    "M_wPrec": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, precious metals",
+        "classification": 38
+    },
+    "M_wSewage": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, sewage",
+        "classification": 38
+    },
+    "M_wSteel": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, steel",
+        "classification": 38
+    },
+    "M_wText": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, textiles",
+        "classification": 38
+    },
+    "M_wUnsort": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, unsorted waste",
+        "classification": 38
+    },
+    "M_wWood": {
+        "unit": "tonne",
+        "name": "treatment of waste/scrap, wood",
+        "classification": 38
+    },
+    "M_Feedn": {
+        "unit": "tonne",
+        "name": "M_Feedn",
+        "classification": ""
+    },
+    "A_Beef_proc": {
+        "unit": "tonne",
+        "name": "beef meat processed (cuts and other)",
+        "classification": "10.13"
+    },
+    "A_HWAT": {
+        "unit": "TJ",
+        "name": "heat (steam and hot water) from heat production",
+        "classification": "35.3"
+    },
+    "A_POWT": {
+        "unit": "MEUR",
+        "name": "transmission services of electricity (excl the electricity)",
+        "classification": "35.12"
+    },
+    "A_Pork_proc": {
+        "unit": "tonne",
+        "name": "pork meat processed (cuts and other)",
+        "classification": "10.13"
+    },
+    "A_WOOD": {
+        "unit": "tonne",
+        "name": "wood and products of wood and cork (except furniture); articles of straw and planting materials",
+        "classification": "16.29"
+    },
+    "A_EBOIL": {
+        "unit": "TJ",
+        "name": "heat from electric boilers",
+        "classification": ""
+    },
+    "M_EBOIL": {
+        "unit": "TJ",
+        "name": "heat from electric boilers",
+        "classification": ""
+    },
+    "A_HA_INCI_no_recov": {
+        "unit": "tonne",
+        "name": "incineration without energy recovery of hazardous waste",
+        "classification": "38.21"
+    },
+    "A_HCHEM": {
+        "unit": "TJ",
+        "name": "heat by-product of chemical electricity generation",
+        "classification": ""
+    },
+    "M_HCHEM": {
+        "unit": "TJ",
+        "name": "heat by-product of chemical electricity generation",
+        "classification": ""
+    },
+    "A_HPUMP": {
+        "unit": "TJ",
+        "name": "heat from heat pumps",
+        "classification": ""
+    },
+    "M_HPUMP": {
+        "unit": "TJ",
+        "name": "heat from electric boilers, global mix",
+        "classification": ""
+    },
+    "M_Beef_ges": {
+        "unit": "tonne",
+        "name": "sausages of beef and veal",
+        "classification": "10.13"
+    },
+    "M_Beef_ked": {
+        "unit": "tonne",
+        "name": "beef and veal, dried, salted, smoked",
+        "classification": "10.13"
+    },
+    "M_Beef_ons": {
+        "unit": "tonne",
+        "name": "beef and veal preparations nes",
+        "classification": "10.13"
+    },
+    "M_Beef_veal": {
+        "unit": "tonne",
+        "name": "beef meat processed (boneless)",
+        "classification": "10.13"
+    },
+    "M_Butt_goat": {
+        "unit": "tonne",
+        "name": "butter of goat milk",
+        "classification": "10.51"
+    },
+    "M_POWT": {
+        "unit": "MEUR",
+        "name": "transmission services of electricity (excl the electricity)",
+        "classification": "35.12"
+    },
+    "M_Pork_ges": {
+        "unit": "tonne",
+        "name": "pork meat processed, sausage",
+        "classification": "10.13"
+    },
+    "M_Pork_ham": {
+        "unit": "tonne",
+        "name": "pork meat processed, bacon and ham",
+        "classification": "10.13"
+    },
+    "M_Pork_ons": {
+        "unit": "tonne",
+        "name": "pork meat processed, meat preparations",
+        "classification": "10.13"
+    },
+    "M_WOOD": {
+        "unit": "tonne",
+        "name": "wood and products of wood and cork (except furniture); articles of straw and planting materials",
+        "classification": "38.32"
+    },
+    "M_Beef_proc": {
+        "unit": "tonne",
+        "name": "beef meat processed (cuts and other), global mix",
+        "classification": "10.13"
+    },
+    "M_Pork_proc": {
+        "unit": "tonne",
+        "name": "pork meat processed (cuts and other), global mix",
+        "classification": "10.13"
+    },
+    "F_GOVE": {
+        "unit": "p",
+        "name": "Final consumption expenditure by government",
+        "classification": ""
+    },
+    "F_NPSH": {
+        "unit": "p",
+        "name": "Final consumption expenditure by non-profit organisations serving households (NPISH)",
+        "classification": ""
+    },
+    "I_CHIN": {
+        "unit": "p",
+        "name": "Changes in inventories",
+        "classification": ""
+    },
+    "I_CHVA": {
+        "unit": "p",
+        "name": "Changes in valuables",
+        "classification": ""
+    },
+    "Arable Land": {
+        "unit": "PW ha*year",
+        "name": "global market, arable",
+        "classification": ""
+    },
+    "Forest Land": {
+        "unit": "PW ha*year",
+        "name": "global market, forest",
+        "classification": ""
+    },
+    "Grassland": {
+        "unit": "PW ha*year",
+        "name": "global market, grass land",
+        "classification": ""
+    },
+    "grassland to pasture": {
+        "unit": "PW ha*year",
+        "name": "land transformation, grassland to pasture",
+        "classification": ""
+    },
+    "intensification of cropland": {
+        "unit": "PW ha*year",
+        "name": "land transformation, intensification of cropland",
+        "classification": ""
+    },
+    "intensification of pasture": {
+        "unit": "PW ha*year",
+        "name": "land transformation, intensification of pasture",
+        "classification": ""
+    },
+    "primary forest to managed forest": {
+        "unit": "PW ha*year",
+        "name": "land transformation, primary forest to managed forest",
+        "classification": ""
+    },
+    "secondary forest to crop": {
+        "unit": "PW ha*year",
+        "name": "land transformation, secondary forest to crop",
+        "classification": ""
+    },
+    "secondary forest to managed forest": {
+        "unit": "PW ha*year",
+        "name": "land transformation, secondary forest to managed forest",
+        "classification": ""
+    },
+    "I_GFCF": {
+        "unit": "p",
+        "name": "Gross fixed capital formation",
+        "classification": ""
+    },
+    "Carbon_dioxide__fossil_Air": {
+        "unit": "tonne",
+        "name": "carbon dioxide, fossil",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Carbon_dioxide__biogenic_Air": {
+        "unit": "tonne",
+        "name": "carbon dioxide, biogenic",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Methane__fossil_Air": {
+        "unit": "tonne",
+        "name": "methane",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Methane__biogenic_Air": {
+        "unit": "tonne",
+        "name": "methane, biogenic",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Dinitrogen_monoxide_Air": {
+        "unit": "tonne",
+        "name": "dinitrogen monoxide",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Accelerated_CO2_Air": {
+        "unit": "tonne",
+        "name": "carbon dioxide accelerated",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Ammonia_Air": {
+        "unit": "tonne",
+        "name": "ammonia",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Arsenic_Air": {
+        "unit": "tonne",
+        "name": "arsenic",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Benzene__hexachloro__Air": {
+        "unit": "tonne",
+        "name": "hexachloro benzene",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Benzo_a__Air": {
+        "unit": "tonne",
+        "name": "Benzo_a__Air",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Cadmium_Air": {
+        "unit": "tonne",
+        "name": "Cadmium_Air",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Carbon_monoxide__fossil_Air": {
+        "unit": "tonne",
+        "name": "carbon monoxide",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Copper_Air": {
+        "unit": "tonne",
+        "name": "copper",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Dioxin__2_3_7_8_Tetrachlorodibenzo_p__Air": {
+        "unit": "tonne",
+        "name": "dioxins",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Lead_Air": {
+        "unit": "tonne",
+        "name": "lead",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Mercury_Air": {
+        "unit": "tonne",
+        "name": "mercury",
+        "compartment": [
+            "air"
+        ]
+    },
+    "NMVOC__non_methane_volatile_organic_compounds_Air": {
+        "unit": "tonne",
+        "name": "NMVOC",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Nickel_Air": {
+        "unit": "tonne",
+        "name": "nickel",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Nitrogen_oxides_Air": {
+        "unit": "tonne",
+        "name": "nitrogen oxide",
+        "compartment": [
+            "air"
+        ]
+    },
+    "PAH__polycyclic_aromatic_hydrocarbons_Air": {
+        "unit": "tonne",
+        "name": "PAH",
+        "compartment": [
+            "air"
+        ]
+    },
+    "PCBs_Air": {
+        "unit": "tonne",
+        "name": "PCBs",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Particulates____10_um_Air": {
+        "unit": "tonne",
+        "name": "PM10",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Particulates____2_5_um_Air": {
+        "unit": "tonne",
+        "name": "PM25",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Selenium_Air": {
+        "unit": "tonne",
+        "name": "selenium",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Sulfur_dioxide_Air": {
+        "unit": "tonne",
+        "name": "SO2",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Zinc_Air": {
+        "unit": "tonne",
+        "name": "zinc",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Benzo_b__Air": {
+        "unit": "tonne",
+        "name": "benzo(b)fluoranthene",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Benzo_k__Air": {
+        "unit": "tonne",
+        "name": "benzo(k)fluoranthene",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Indeno_1_2_3_cd_pyrene_Air": {
+        "unit": "tonne",
+        "name": "Indeno(1,2,3-cd)pyrene",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Nitrogen__total_Soil": {
+        "unit": "tonne",
+        "name": "Nitrogen",
+        "compartment": [
+            "soil"
+        ]
+    },
+    "Nitrogen__total_Water": {
+        "unit": "tonne",
+        "name": "Nitrogen",
+        "compartment": [
+            "water"
+        ]
+    },
+    "PCDD_F_Air": {
+        "unit": "tonne",
+        "name": "polychlorinated dibenzo-p-dioxins and dibenzofurans",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Phosphorus__total_Soil": {
+        "unit": "tonne",
+        "name": "Phosphorus",
+        "compartment": [
+            "soil"
+        ]
+    },
+    "Phosphorus__total_Water": {
+        "unit": "tonne",
+        "name": "Phosphorus",
+        "compartment": [
+            "water"
+        ]
+    },
+    "TSP_Air": {
+        "unit": "tonne",
+        "name": "Trisodium phosphate",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Polychlorinated_biphenyls_Air": {
+        "unit": "tonne",
+        "name": "Polychlorinated biphenyls",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Arable_land": {
+        "unit": "hectare * year",
+        "name": "arable land occupation",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Pasture_Land": {
+        "unit": "hectare * year",
+        "name": "pasture land occupation",
+        "compartment": [
+            "air"
+        ]
+    },
+    "Abrasives__natural__puzzolan__pumice__volcanic_cinder_etc__": {
+        "unit": "tonne",
+        "name": "Abrasives, natural (puzzolan, pumice, volcanic cinder etc.)",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Antimony___associated_ore": {
+        "unit": "tonne",
+        "name": "Antimony",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Asbestos": {
+        "unit": "tonne",
+        "name": "Asbestos",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Arsenic": {
+        "unit": "tonne",
+        "name": "Arsenic",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Cadmium": {
+        "unit": "tonne",
+        "name": "Cadmium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Ball_clay": {
+        "unit": "tonne",
+        "name": "Clay, unspecified",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Barite": {
+        "unit": "tonne",
+        "name": "Barite, 15% in crude ore",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Bentonite__sepiolite_and_attapulgite": {
+        "unit": "tonne",
+        "name": "Clay, bentonite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Bismuth___associated_ore": {
+        "unit": "tonne",
+        "name": "Bismuth",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Borate_minerals": {
+        "unit": "tonne",
+        "name": "Borate",
+        "compartment": [
+            "water", "ground-"
+        ]
+    },
+    "Bromine": {
+        "unit": "tonne",
+        "name": "Bromine",
+        "compartment": [
+            "water", "ground-"
+        ]
+    },
+    "Cadmium": {
+        "unit": "tonne",
+        "name": "Bromine",
+        "compartment": [
+            "water", "ground-"
+        ]
+    },
+    "Calcite": {
+        "unit": "tonne",
+        "name": "Bromine",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Calcium_carbonate": {
+        "unit": "tonne",
+        "name": "Calcium carbonate",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Chromium___associated_ore": {
+        "unit": "tonne",
+        "name": "chromium",
+        "compartment": [
+            "water", "ground-"
+        ]
+    },
+    "Cobalt___associated_ore": {
+        "unit": "tonne",
+        "name": "Cobalt",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Common_clay__clay_for_bricks_etc_": {
+        "unit": "tonne",
+        "name": "Clay, unspecified",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Copper___associated_ore": {
+        "unit": "tonne",
+        "name": "Copper",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Diatomite": {
+        "unit": "tonne",
+        "name": "Diatomite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Dolomite": {
+        "unit": "tonne",
+        "name": "Dolomite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Feldspar": {
+        "unit": "tonne",
+        "name": "Feldspar",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Fluorspar": {
+        "unit": "tonne",
+        "name": "Fluorspar",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Gallium": {
+        "unit": "tonne",
+        "name": "Gallium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Germanium": {
+        "unit": "tonne",
+        "name": "Germanium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Gold___associated_ore": {
+        "unit": "tonne",
+        "name": "Gold",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Graphite__natural": {
+        "unit": "tonne",
+        "name": "Graphite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Gypsum_and_anhydrite": {
+        "unit": "tonne",
+        "name": "Gypsum",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Igneous_rock__basalt__basaltic_lava__diabase__granite__porphyry__etc__": {
+        "unit": "tonne",
+        "name": "Basalt",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Indium": {
+        "unit": "tonne",
+        "name": "Indium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Industrial_sand": {
+        "unit": "tonne",
+        "name": "Sand, unspecified",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Iodine": {
+        "unit": "tonne",
+        "name": "Iodine",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Iron___associated_ore": {
+        "unit": "tonne",
+        "name": "Iron",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Kaolin": {
+        "unit": "tonne",
+        "name": "Kaolin",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Laterite": {
+        "unit": "tonne",
+        "name": "Laterite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Lead___associated_ore": {
+        "unit": "tonne",
+        "name": "Lead",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Lithium_ore": {
+        "unit": "tonne",
+        "name": "Lithium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Magnesite": {
+        "unit": "tonne",
+        "name": "Magnesite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Magnesium": {
+        "unit": "tonne",
+        "name": "Magnesium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Manganese___associated_ore": {
+        "unit": "tonne",
+        "name": "Manganese",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Manganese_ore": {
+        "unit": "tonne",
+        "name": "Manganese",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Mercury___associated_ore": {
+        "unit": "tonne",
+        "name": "Mercury",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Molybdenum___associated_ore": {
+        "unit": "tonne",
+        "name": "Molybdenum",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Nickel___associated_ore": {
+        "unit": "tonne",
+        "name": "Nickel",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Niobium___associated_ore": {
+        "unit": "tonne",
+        "name": "Niobium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Palladium___associated_ore": {
+        "unit": "tonne",
+        "name": "Palladium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Perlite": {
+        "unit": "tonne",
+        "name": "Perlite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Phosphate_rock": {
+        "unit": "tonne",
+        "name": "Phosphate",
+        "compartment": [
+            "water", "ground-"
+        ]
+    },
+    "Platinum___associated_ore": {
+        "unit": "tonne",
+        "name": "Platinum",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Potter_clay": {
+        "unit": "tonne",
+        "name": "Clay, unspecified",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Pyrite": {
+        "unit": "tonne",
+        "name": "Pyrite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Rhenium": {
+        "unit": "tonne",
+        "name": "Rhenium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Rhodium___associated_ore": {
+        "unit": "tonne",
+        "name": "Rhodium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Sand_and_gravel": {
+            "unit": "tonne",
+            "name": "Sand, unspecified",
+            "compartment": [
+                "natural resource", "in ground"
+            ]
+        },
+    "Selenium": {
+        "unit": "tonne",
+        "name": "Selenium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Silica_Sand": {
+        "unit": "tonne",
+        "name": "Sand, unspecified",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Silver___associated_ore": {
+        "unit": "tonne",
+        "name": "Silver",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Strontium_mineral": {
+        "unit": "tonne",
+        "name": "Strontium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Sulphur_ore": {
+        "unit": "tonne",
+        "name": "Sulfur",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Talc__steatite__soapstone__pyrophyllite_": {
+        "unit": "tonne",
+        "name": "Talc",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Tantalum___associated_ore": {
+        "unit": "tonne",
+        "name": "Tantalum",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Tellurium___associated_ore": {
+        "unit": "tonne",
+        "name": "Tellurium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Tin___associated_ore": {
+        "unit": "tonne",
+        "name": "Tin",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Titanium___associated_ore": {
+        "unit": "tonne",
+        "name": "Titanium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Titanium_ore": {
+        "unit": "tonne",
+        "name": "Titanium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Tungsten___associated_ore": {
+        "unit": "tonne",
+        "name": "Tungsten",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Uranium___associated_ore": {
+        "unit": "tonne",
+        "name": "Uranium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Vanadium___associated_ore": {
+        "unit": "tonne",
+        "name": "Vanadium",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Vermiculite": {
+        "unit": "tonne",
+        "name": "Vermiculite",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Zinc___associated_ore": {
+        "unit": "tonne",
+        "name": "Zinc",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    },
+    "Zircon": {
+        "unit": "tonne",
+        "name": "Zirconium, 50% in zircon, 0.39% in crude ore",
+        "compartment": [
+            "natural resource", "in ground"
+        ]
+    }
+}
