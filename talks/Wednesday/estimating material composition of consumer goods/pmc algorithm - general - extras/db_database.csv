@@ -1,0 +1,5 @@
+code,database,location,name,reference product,type,unit
+b1e89b9458ed42c19092edb595109f03,db,GLO,plastic production,plastic,process,kg
+847a614e0ede4b8ba5aaf388942fb664,db,GLO,laptop production,laptop,process,unit
+52fc5f301eb4466f90dee5636a023ff8,db,GLO,factory,factory,process,unit
+a1b3f24fb507470a8fcd45a7f8fea5b5,db,GLO,copper processing,copper,process,kg

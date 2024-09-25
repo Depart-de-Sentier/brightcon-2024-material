@@ -1,0 +1,1 @@
+- review the scanning function. Could use the one that gives higher score to several keywords matching so that PET is prioritized and assigned over PE for PET keywords 
