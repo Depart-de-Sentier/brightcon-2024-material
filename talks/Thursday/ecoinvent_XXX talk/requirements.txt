@@ -1,0 +1,6 @@
+multifunctional >= 0.7.2
+bw_simapro_csv >= 0.2.6
+randonneur >= 0.5
+randonneur_data >= 0.3
+ecoinvent_interface >= 2.5
+ecoinvent_migrate >= 0.5
