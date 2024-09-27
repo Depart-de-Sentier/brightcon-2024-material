@@ -4,7 +4,7 @@ Hackathon Results
 
 Group Data Lineage (by https://github.com/FRaymand and https://github.com/cswh)
 
-If you are interested in data lineage within LCA and brightway workflows, please participate in:
+If you are interested in data lineage within LCA and brightway workflows, please participate in our discussion:
 
 https://github.com/brightway-lca/brightway2/discussions/87
 
