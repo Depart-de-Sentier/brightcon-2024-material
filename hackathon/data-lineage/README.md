@@ -1,5 +1,13 @@
 # brightway-data-lineage
 
+Hackathon Results
+
+Group Data Lineage (by https://github.com/FRaymand and https://github.com/cswh)
+
+If you are interested in data lineage within LCA and brightway workflows, please participate in:
+
+https://github.com/brightway-lca/brightway2/discussions/87
+
 ## What is data lineage?
 Data lineage is the process of tracking data over time, recording its origin, how it has changed, and its final destination within the data pipeline. One can implement data lineage through any of the following approaches:
 - Pattern-based lineage: evaluates metadata without consideringthe code used to generate data and detects instances of data by assessing their similarity
